@@ -1,0 +1,2862 @@
+{
+  "activities": [
+    {
+      "date": "2025-06-28",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15038814798",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-01",
+      "hour": 9,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500442082",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-02",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15038814825",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-04",
+      "hour": 9,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500442123",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-05",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15038814777",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-05",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15038814780",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-05",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15038814849",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-07",
+      "hour": 9,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500442089",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-09",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15060792439",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-09",
+      "hour": 9,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500442119",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-10",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15071577490",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-12",
+      "hour": 5,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15085039922",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-14",
+      "hour": 9,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500442106",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-15",
+      "hour": 18,
+      "name": "\u041f\u043e\u043b\u0442\u0438\u0448\u043e\u043a \u043d\u0430 \u043f\u043e\u0441\u043e\u0448\u043e\u043a",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15124718096",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-16",
+      "hour": 17,
+      "name": "\u0414\u043e \u041a\u0443\u0434\u044c\u043c\u044b \u0438 \u043e\u0431\u0440\u0430\u0442\u043d\u043e. \u0422\u0443\u0434\u0430",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15136556365",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-16",
+      "hour": 20,
+      "name": "\u0414\u043e \u041a\u0443\u0434\u044c\u043c\u044b \u0438 \u043e\u0431\u0440\u0430\u0442\u043d\u043e. \u041e\u0442\u0442\u0443\u0434\u0430",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15137362594",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-16",
+      "hour": 10,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500442114",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-18",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15151822782",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-18",
+      "hour": 19,
+      "name": "Lazy Cogs #7",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15157854425",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-21",
+      "hour": 9,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500442094",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-23",
+      "hour": 10,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500442108",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-25",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15228760726",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-26",
+      "hour": 8,
+      "name": "\u0420\u0430\u0441\u043a\u0430\u0442\u043a\u0430 \u043f\u0435\u0440\u0435\u0434 \u0431\u0440\u0435\u0432\u0435\u0442\u043e\u043c",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15242428288",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-29",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15270973711",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-30",
+      "hour": 8,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500442265",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-01",
+      "hour": 6,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15304647630",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-02",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15315222330",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-04",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500482144",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-05",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15349210912",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-06",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15363686993",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-07",
+      "hour": 9,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500401699",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-09",
+      "hour": 7,
+      "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0440\u0435\u0432\u0435\u0442. \u0413\u043e\u0440\u043e\u0414\u0435\u0446\u043a\u0438\u0439",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15399672188",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-09",
+      "hour": 16,
+      "name": "\u041f\u043e\u0440\u0430 \u0434\u043e\u043c\u043e\u0439",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15399783608",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-09",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15500481535",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-11",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500480907",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-13",
+      "hour": 8,
+      "name": "\u0422\u0443\u0434\u043e\u0439-\u0441\u044e\u0434\u043e\u0439 \u0437\u0430\u0435\u0437\u0434",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15441837394",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-13",
+      "hour": 12,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500480423",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-15",
+      "hour": 17,
+      "name": "\u0417\u0413 + Lazy Cogs",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15470568816",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-16",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15474757776",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-16",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15475978037",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-18",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15500479965",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-19",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15509975221",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-20",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15526744205",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-21",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15532521348",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-22",
+      "hour": 10,
+      "name": "\u041f\u043e\u043f\u044b\u0442\u043a\u0430 \u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043d\u0438\u0437\u043a\u0438\u0439 \u043f\u0443\u043b\u044c\u0441.",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15544579121",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-25",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15583291529",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-26",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15589014147",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-29",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15623809360",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-01",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15656209044",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-01",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15660985532",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-03",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15680032704",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-06",
+      "hour": 7,
+      "name": "\u0424\u0435\u043b\u0438\u043a\u0441 \u042d\u0434\u043c\u0443\u043d\u0434\u043e\u0432\u0438\u0447",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15718013425",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-09",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15749098727",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-10",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15760844767",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-13",
+      "hour": 11,
+      "name": "\u0417\u0430\u0435\u0437\u0434 \u0441 velow /cc",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15796132425",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-15",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15816138173",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-22",
+      "hour": 16,
+      "name": "Zwift - Endurance on Ocean Lava Cliffside Loop in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15899161869",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-24",
+      "hour": 12,
+      "name": "Zwift - Zone Benchmarking on Whole Lotta Lava in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15918958371",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-24",
+      "hour": 12,
+      "name": "Zwift - FTP Ramp Test on Cobbled Climbs in Richmond",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15919109537",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-25",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/15928967494",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-26",
+      "hour": 9,
+      "name": "Zwift - Cadence & Tempo on Sand And Sequoias in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15939711799",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-30",
+      "hour": 10,
+      "name": "Zwift - Endurance on Greatest London Loop in London",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15984009346",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-02",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16006374054",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-03",
+      "hour": 13,
+      "name": "Zwift - Endurance on Rolling Highlands in Scotland",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16019498217",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-08",
+      "hour": 10,
+      "name": "Zwift - Aerobic Builds on Beach Island Loop in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16072128665",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-10",
+      "hour": 12,
+      "name": "MyWhoosh - 90 Minute Endurance",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16094144862",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-13",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16124074506",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-14",
+      "hour": 10,
+      "name": "MyWhoosh - What is FTP?",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16134976961",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-15",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16146232930",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-17",
+      "hour": 11,
+      "name": "MyWhoosh - Training Zones",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16167597391",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-18",
+      "hour": 12,
+      "name": "MyWhoosh - MyWhoosh Ramp Test",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16178180885",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-20",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16197890110",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-21",
+      "hour": 9,
+      "name": "MyWhoosh - Intervals - What are they?",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16208131106",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-23",
+      "hour": 9,
+      "name": "MyWhoosh - Aerobic 12's #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16229474055",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-24",
+      "hour": 9,
+      "name": "MyWhoosh - Endurance #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16239112726",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-27",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16268530824",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-29",
+      "hour": 9,
+      "name": "MyWhoosh - Sweetspot Training",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16289198360",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-30",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16299297567",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-31",
+      "hour": 10,
+      "name": "MyWhoosh - Tri Endurance #6",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16309399780",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-03",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16338628400",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-04",
+      "hour": 15,
+      "name": "MyWhoosh - Stepped Intervals",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16352009246",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-06",
+      "hour": 8,
+      "name": "MyWhoosh - Endurance #3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16371109610",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-07",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16381194144",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-10",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16411095669",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-12",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16432596180",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-13",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16442774865",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-14",
+      "hour": 13,
+      "name": "MyWhoosh - Speed Sprints",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16454449038",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-16",
+      "hour": 16,
+      "name": "MyWhoosh - Endurance with 30/30's",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16475809944",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-17",
+      "hour": 9,
+      "name": "MyWhoosh - Endurance #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16481992817",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-18",
+      "hour": 11,
+      "name": "MyWhoosh - Endurance into Max Aerobic",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16492180468",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-19",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16502219107",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-20",
+      "hour": 12,
+      "name": "MyWhoosh - Tempo with 15sec surges",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16512878928",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-21",
+      "hour": 14,
+      "name": "MyWhoosh - Zone 2 into Threshold",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16523040331",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-25",
+      "hour": 11,
+      "name": "MyWhoosh - Targeting FTP",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16559790996",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-26",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16569744686",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-27",
+      "hour": 11,
+      "name": "MyWhoosh - Into the Red!",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16579844162",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-28",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16588927582",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-29",
+      "hour": 12,
+      "name": "MyWhoosh - VO2 Max!",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16598154517",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-02",
+      "hour": 11,
+      "name": "MyWhoosh - Ramp Test - MyWhoosh",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16626119103",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-02",
+      "hour": 12,
+      "name": "MyWhoosh - Zone 2 Endurance 30min",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16626540352",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-03",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16635655112",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-03",
+      "hour": 12,
+      "name": "MyWhoosh - Base Miles #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16636955059",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-04",
+      "hour": 9,
+      "name": "MyWhoosh - Muscular Endurance #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16645531911",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-05",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16654446093",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-05",
+      "hour": 16,
+      "name": "MyWhoosh - Active Recovery #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16657144435",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-06",
+      "hour": 13,
+      "name": "MyWhoosh - Endurance #7",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16664835572",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-13",
+      "hour": 12,
+      "name": "MyWhoosh - Phosphate 6",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16728853667",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-15",
+      "hour": 14,
+      "name": "MyWhoosh - Zone 2 Endurance 30min",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16748120357",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-18",
+      "hour": 12,
+      "name": "MyWhoosh - Muscular Endurance #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16774952940",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-19",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16782826076",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-19",
+      "hour": 14,
+      "name": "MyWhoosh - Endurance #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16784389066",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-21",
+      "hour": 12,
+      "name": "MyWhoosh - Mitochondria #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16800531502",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-22",
+      "hour": 15,
+      "name": "MyWhoosh - Active Recovery #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16810741286",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-23",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16817230772",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-24",
+      "hour": 16,
+      "name": "MyWhoosh - Endurance 12's #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16829907527",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-24",
+      "hour": 12,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16829951172",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-26",
+      "hour": 13,
+      "name": "MyWhoosh - Anaerobic 10 #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16843483056",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-26",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16843537789",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-27",
+      "hour": 17,
+      "name": "MyWhoosh - Muscular Endurance #3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16855835634",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-28",
+      "hour": 16,
+      "name": "MyWhoosh - Base Miles #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16865160109",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-29",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16870620712",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-30",
+      "hour": 16,
+      "name": "MyWhoosh - Mitochondria #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16884106523",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-31",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16891049688",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-31",
+      "hour": 15,
+      "name": "MyWhoosh - Endurance 12's #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16894327715",
+      "year": 2025
+    },
+    {
+      "date": "2026-01-01",
+      "hour": 15,
+      "name": "MyWhoosh - Anaerobic 10 #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16902868611",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-02",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16909465318",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-03",
+      "hour": 11,
+      "name": "MyWhoosh - Active Recovery #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16920442615",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-07",
+      "hour": 17,
+      "name": "MyWhoosh - Mitochondria #3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16969036943",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-08",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/16976686117",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-12",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17019653994",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-13",
+      "hour": 15,
+      "name": "MyWhoosh - Base Miles #3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17034142147",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-14",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17043837181",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-15",
+      "hour": 12,
+      "name": "MyWhoosh - Mitochondria #4",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17056728717",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-19",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17100480647",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-21",
+      "hour": 11,
+      "name": "MyWhoosh - Base Miles #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17124948569",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-23",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17147368430",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-27",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17197954086",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-28",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17202694737",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-29",
+      "hour": 12,
+      "name": "MyWhoosh - Heian Samurai Circuit",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17215002980",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-30",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17224904740",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-02",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17257189643",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-03",
+      "hour": 12,
+      "name": "MyWhoosh - Al Qudra",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17269687374",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-04",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17280552795",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-05",
+      "hour": 11,
+      "name": "MyWhoosh - Ghent",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17293177530",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-06",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17303569864",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-09",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17336128203",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-11",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17359448044",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-13",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17381651374",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-16",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17412998637",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-17",
+      "hour": 14,
+      "name": "MyWhoosh - Al Qudra",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17426744444",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-20",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17458421569",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17491883104",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 9,
+      "name": "MyWhoosh - 90 Minute Endurance",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17502690815",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17514759746",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17538629212",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-04",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17597689415",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17669001898",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 9,
+      "name": "MyWhoosh - Base Miles #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17681712797",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17693491948",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 11,
+      "name": "MyWhoosh - Zone 2 Endurance 40min",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17705776264",
+      "year": 2026
+    }
+  ],
+  "aggregates": {
+    "2025": {
+      "Ride": {
+        "2025-06-28": {
+          "activity_ids": [
+            "15038814798"
+          ],
+          "count": 1,
+          "distance": 31863.6,
+          "elevation_gain": 261.0,
+          "moving_time": 6577.0
+        },
+        "2025-07-02": {
+          "activity_ids": [
+            "15038814825"
+          ],
+          "count": 1,
+          "distance": 11799.5,
+          "elevation_gain": 113.0,
+          "moving_time": 2960.0
+        },
+        "2025-07-05": {
+          "activity_ids": [
+            "15038814777",
+            "15038814780",
+            "15038814849"
+          ],
+          "count": 3,
+          "distance": 198684.2,
+          "elevation_gain": 1891.0,
+          "moving_time": 31451.0
+        },
+        "2025-07-09": {
+          "activity_ids": [
+            "15060792439"
+          ],
+          "count": 1,
+          "distance": 17354.7,
+          "elevation_gain": 160.0,
+          "moving_time": 3364.0
+        },
+        "2025-07-10": {
+          "activity_ids": [
+            "15071577490"
+          ],
+          "count": 1,
+          "distance": 36898.6,
+          "elevation_gain": 436.0,
+          "moving_time": 7719.0
+        },
+        "2025-07-12": {
+          "activity_ids": [
+            "15085039922"
+          ],
+          "count": 1,
+          "distance": 40870.4,
+          "elevation_gain": 191.0,
+          "moving_time": 6112.0
+        },
+        "2025-07-15": {
+          "activity_ids": [
+            "15124718096"
+          ],
+          "count": 1,
+          "distance": 50478.5,
+          "elevation_gain": 245.0,
+          "moving_time": 7450.0
+        },
+        "2025-07-16": {
+          "activity_ids": [
+            "15136556365",
+            "15137362594"
+          ],
+          "count": 2,
+          "distance": 49856.0,
+          "elevation_gain": 424.20000000000005,
+          "moving_time": 9739.0
+        },
+        "2025-07-18": {
+          "activity_ids": [
+            "15151822782",
+            "15157854425"
+          ],
+          "count": 2,
+          "distance": 60358.9,
+          "elevation_gain": 624.0,
+          "moving_time": 11328.0
+        },
+        "2025-07-25": {
+          "activity_ids": [
+            "15228760726"
+          ],
+          "count": 1,
+          "distance": 24045.3,
+          "elevation_gain": 178.0,
+          "moving_time": 3574.0
+        },
+        "2025-07-26": {
+          "activity_ids": [
+            "15242428288"
+          ],
+          "count": 1,
+          "distance": 175735.0,
+          "elevation_gain": 880.0,
+          "moving_time": 24175.0
+        },
+        "2025-07-29": {
+          "activity_ids": [
+            "15270973711"
+          ],
+          "count": 1,
+          "distance": 30767.8,
+          "elevation_gain": 165.0,
+          "moving_time": 6047.0
+        },
+        "2025-08-01": {
+          "activity_ids": [
+            "15304647630"
+          ],
+          "count": 1,
+          "distance": 50755.8,
+          "elevation_gain": 462.0,
+          "moving_time": 7389.0
+        },
+        "2025-08-02": {
+          "activity_ids": [
+            "15315222330"
+          ],
+          "count": 1,
+          "distance": 53296.4,
+          "elevation_gain": 253.0,
+          "moving_time": 7569.0
+        },
+        "2025-08-05": {
+          "activity_ids": [
+            "15349210912"
+          ],
+          "count": 1,
+          "distance": 52482.2,
+          "elevation_gain": 215.0,
+          "moving_time": 7753.0
+        },
+        "2025-08-06": {
+          "activity_ids": [
+            "15363686993"
+          ],
+          "count": 1,
+          "distance": 51827.9,
+          "elevation_gain": 475.0,
+          "moving_time": 7613.0
+        },
+        "2025-08-09": {
+          "activity_ids": [
+            "15399672188",
+            "15399783608",
+            "15500481535"
+          ],
+          "count": 3,
+          "distance": 218656.9,
+          "elevation_gain": 1044.1,
+          "moving_time": 29653.0
+        },
+        "2025-08-13": {
+          "activity_ids": [
+            "15441837394"
+          ],
+          "count": 1,
+          "distance": 53171.5,
+          "elevation_gain": 118.0,
+          "moving_time": 7931.0
+        },
+        "2025-08-15": {
+          "activity_ids": [
+            "15470568816"
+          ],
+          "count": 1,
+          "distance": 69610.7,
+          "elevation_gain": 592.0,
+          "moving_time": 10201.0
+        },
+        "2025-08-16": {
+          "activity_ids": [
+            "15474757776",
+            "15475978037"
+          ],
+          "count": 2,
+          "distance": 7783.9,
+          "elevation_gain": 54.0,
+          "moving_time": 1363.0
+        },
+        "2025-08-19": {
+          "activity_ids": [
+            "15509975221"
+          ],
+          "count": 1,
+          "distance": 41028.0,
+          "elevation_gain": 221.0,
+          "moving_time": 6325.0
+        },
+        "2025-08-20": {
+          "activity_ids": [
+            "15526744205"
+          ],
+          "count": 1,
+          "distance": 50883.6,
+          "elevation_gain": 451.0,
+          "moving_time": 7480.0
+        },
+        "2025-08-22": {
+          "activity_ids": [
+            "15544579121"
+          ],
+          "count": 1,
+          "distance": 50746.6,
+          "elevation_gain": 463.0,
+          "moving_time": 8028.0
+        },
+        "2025-08-25": {
+          "activity_ids": [
+            "15583291529"
+          ],
+          "count": 1,
+          "distance": 55100.2,
+          "elevation_gain": 232.0,
+          "moving_time": 8541.0
+        },
+        "2025-08-29": {
+          "activity_ids": [
+            "15623809360"
+          ],
+          "count": 1,
+          "distance": 50861.6,
+          "elevation_gain": 475.0,
+          "moving_time": 7355.0
+        },
+        "2025-09-01": {
+          "activity_ids": [
+            "15660985532"
+          ],
+          "count": 1,
+          "distance": 50807.3,
+          "elevation_gain": 445.0,
+          "moving_time": 7046.0
+        },
+        "2025-09-06": {
+          "activity_ids": [
+            "15718013425"
+          ],
+          "count": 1,
+          "distance": 201516.0,
+          "elevation_gain": 1034.0,
+          "moving_time": 25308.0
+        },
+        "2025-09-09": {
+          "activity_ids": [
+            "15749098727"
+          ],
+          "count": 1,
+          "distance": 50316.1,
+          "elevation_gain": 458.0,
+          "moving_time": 7027.0
+        },
+        "2025-09-13": {
+          "activity_ids": [
+            "15796132425"
+          ],
+          "count": 1,
+          "distance": 62271.8,
+          "elevation_gain": 501.0,
+          "moving_time": 8143.0
+        },
+        "2025-11-12": {
+          "activity_ids": [
+            "16432596180"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2963.0
+        }
+      },
+      "VirtualRide": {
+        "2025-09-22": {
+          "activity_ids": [
+            "15899161869"
+          ],
+          "count": 1,
+          "distance": 46058.9,
+          "elevation_gain": 350.0,
+          "moving_time": 6676.0
+        },
+        "2025-09-24": {
+          "activity_ids": [
+            "15918958371",
+            "15919109537"
+          ],
+          "count": 2,
+          "distance": 17028.4,
+          "elevation_gain": 226.0,
+          "moving_time": 2700.0
+        },
+        "2025-09-26": {
+          "activity_ids": [
+            "15939711799"
+          ],
+          "count": 1,
+          "distance": 36189.1,
+          "elevation_gain": 297.0,
+          "moving_time": 4888.0
+        },
+        "2025-09-30": {
+          "activity_ids": [
+            "15984009346"
+          ],
+          "count": 1,
+          "distance": 34855.2,
+          "elevation_gain": 424.0,
+          "moving_time": 5024.0
+        },
+        "2025-10-03": {
+          "activity_ids": [
+            "16019498217"
+          ],
+          "count": 1,
+          "distance": 62882.7,
+          "elevation_gain": 518.0,
+          "moving_time": 7860.0
+        },
+        "2025-10-08": {
+          "activity_ids": [
+            "16072128665"
+          ],
+          "count": 1,
+          "distance": 43875.1,
+          "elevation_gain": 173.0,
+          "moving_time": 5416.0
+        },
+        "2025-10-10": {
+          "activity_ids": [
+            "16094144862"
+          ],
+          "count": 1,
+          "distance": 25383.7,
+          "elevation_gain": 601.0,
+          "moving_time": 5415.0
+        },
+        "2025-10-14": {
+          "activity_ids": [
+            "16134976961"
+          ],
+          "count": 1,
+          "distance": 17558.3,
+          "elevation_gain": 32.0,
+          "moving_time": 2226.0
+        },
+        "2025-10-17": {
+          "activity_ids": [
+            "16167597391"
+          ],
+          "count": 1,
+          "distance": 8235.0,
+          "elevation_gain": 176.0,
+          "moving_time": 1891.0
+        },
+        "2025-10-18": {
+          "activity_ids": [
+            "16178180885"
+          ],
+          "count": 1,
+          "distance": 9055.7,
+          "elevation_gain": 16.0,
+          "moving_time": 1190.0
+        },
+        "2025-10-21": {
+          "activity_ids": [
+            "16208131106"
+          ],
+          "count": 1,
+          "distance": 13897.2,
+          "elevation_gain": 16.0,
+          "moving_time": 1866.0
+        },
+        "2025-10-23": {
+          "activity_ids": [
+            "16229474055"
+          ],
+          "count": 1,
+          "distance": 28919.2,
+          "elevation_gain": 191.0,
+          "moving_time": 3820.0
+        },
+        "2025-10-24": {
+          "activity_ids": [
+            "16239112726"
+          ],
+          "count": 1,
+          "distance": 10371.9,
+          "elevation_gain": 448.2,
+          "moving_time": 3305.0
+        },
+        "2025-10-29": {
+          "activity_ids": [
+            "16289198360"
+          ],
+          "count": 1,
+          "distance": 19784.1,
+          "elevation_gain": 28.0,
+          "moving_time": 2493.0
+        },
+        "2025-10-31": {
+          "activity_ids": [
+            "16309399780"
+          ],
+          "count": 1,
+          "distance": 39060.4,
+          "elevation_gain": 106.0,
+          "moving_time": 4741.0
+        },
+        "2025-11-04": {
+          "activity_ids": [
+            "16352009246"
+          ],
+          "count": 1,
+          "distance": 21888.9,
+          "elevation_gain": 31.2,
+          "moving_time": 2690.0
+        },
+        "2025-11-06": {
+          "activity_ids": [
+            "16371109610"
+          ],
+          "count": 1,
+          "distance": 28230.6,
+          "elevation_gain": 50.0,
+          "moving_time": 3538.0
+        },
+        "2025-11-14": {
+          "activity_ids": [
+            "16454449038"
+          ],
+          "count": 1,
+          "distance": 27236.0,
+          "elevation_gain": 92.2,
+          "moving_time": 3569.0
+        },
+        "2025-11-16": {
+          "activity_ids": [
+            "16475809944"
+          ],
+          "count": 1,
+          "distance": 16577.7,
+          "elevation_gain": 39.0,
+          "moving_time": 2059.0
+        },
+        "2025-11-17": {
+          "activity_ids": [
+            "16481992817"
+          ],
+          "count": 1,
+          "distance": 26676.0,
+          "elevation_gain": 147.8,
+          "moving_time": 3507.0
+        },
+        "2025-11-18": {
+          "activity_ids": [
+            "16492180468"
+          ],
+          "count": 1,
+          "distance": 18800.7,
+          "elevation_gain": 24.4,
+          "moving_time": 2300.0
+        },
+        "2025-11-20": {
+          "activity_ids": [
+            "16512878928"
+          ],
+          "count": 1,
+          "distance": 19815.1,
+          "elevation_gain": 28.2,
+          "moving_time": 2427.0
+        },
+        "2025-11-21": {
+          "activity_ids": [
+            "16523040331"
+          ],
+          "count": 1,
+          "distance": 18105.1,
+          "elevation_gain": 24.4,
+          "moving_time": 2194.0
+        },
+        "2025-11-25": {
+          "activity_ids": [
+            "16559790996"
+          ],
+          "count": 1,
+          "distance": 19810.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2427.0
+        },
+        "2025-11-27": {
+          "activity_ids": [
+            "16579844162"
+          ],
+          "count": 1,
+          "distance": 9726.2,
+          "elevation_gain": 273.0,
+          "moving_time": 2641.0
+        },
+        "2025-11-29": {
+          "activity_ids": [
+            "16598154517"
+          ],
+          "count": 1,
+          "distance": 18782.7,
+          "elevation_gain": 30.4,
+          "moving_time": 2389.0
+        },
+        "2025-12-02": {
+          "activity_ids": [
+            "16626119103",
+            "16626540352"
+          ],
+          "count": 2,
+          "distance": 40270.0,
+          "elevation_gain": 166.39999999999998,
+          "moving_time": 5340.0
+        },
+        "2025-12-03": {
+          "activity_ids": [
+            "16636955059"
+          ],
+          "count": 1,
+          "distance": 18354.4,
+          "elevation_gain": 183.6,
+          "moving_time": 2523.0
+        },
+        "2025-12-04": {
+          "activity_ids": [
+            "16645531911"
+          ],
+          "count": 1,
+          "distance": 26224.5,
+          "elevation_gain": 164.6,
+          "moving_time": 3544.0
+        },
+        "2025-12-05": {
+          "activity_ids": [
+            "16657144435"
+          ],
+          "count": 1,
+          "distance": 18665.3,
+          "elevation_gain": 205.4,
+          "moving_time": 2883.0
+        },
+        "2025-12-06": {
+          "activity_ids": [
+            "16664835572"
+          ],
+          "count": 1,
+          "distance": 20027.2,
+          "elevation_gain": 308.4,
+          "moving_time": 3522.0
+        },
+        "2025-12-13": {
+          "activity_ids": [
+            "16728853667"
+          ],
+          "count": 1,
+          "distance": 27892.9,
+          "elevation_gain": 64.4,
+          "moving_time": 3514.0
+        },
+        "2025-12-15": {
+          "activity_ids": [
+            "16748120357"
+          ],
+          "count": 1,
+          "distance": 26176.2,
+          "elevation_gain": 164.8,
+          "moving_time": 3571.0
+        },
+        "2025-12-18": {
+          "activity_ids": [
+            "16774952940"
+          ],
+          "count": 1,
+          "distance": 26712.7,
+          "elevation_gain": 324.2,
+          "moving_time": 4008.0
+        },
+        "2025-12-19": {
+          "activity_ids": [
+            "16784389066"
+          ],
+          "count": 1,
+          "distance": 25806.8,
+          "elevation_gain": 285.4,
+          "moving_time": 3620.0
+        },
+        "2025-12-21": {
+          "activity_ids": [
+            "16800531502"
+          ],
+          "count": 1,
+          "distance": 26671.0,
+          "elevation_gain": 164.4,
+          "moving_time": 3738.0
+        },
+        "2025-12-22": {
+          "activity_ids": [
+            "16810741286"
+          ],
+          "count": 1,
+          "distance": 21463.5,
+          "elevation_gain": 114.8,
+          "moving_time": 2910.0
+        },
+        "2025-12-24": {
+          "activity_ids": [
+            "16829907527"
+          ],
+          "count": 1,
+          "distance": 27630.7,
+          "elevation_gain": 250.2,
+          "moving_time": 3808.0
+        },
+        "2025-12-26": {
+          "activity_ids": [
+            "16843483056"
+          ],
+          "count": 1,
+          "distance": 22317.1,
+          "elevation_gain": 264.0,
+          "moving_time": 3485.0
+        },
+        "2025-12-27": {
+          "activity_ids": [
+            "16855835634"
+          ],
+          "count": 1,
+          "distance": 31793.1,
+          "elevation_gain": 308.0,
+          "moving_time": 4256.0
+        },
+        "2025-12-28": {
+          "activity_ids": [
+            "16865160109"
+          ],
+          "count": 1,
+          "distance": 17505.9,
+          "elevation_gain": 177.4,
+          "moving_time": 2685.0
+        },
+        "2025-12-30": {
+          "activity_ids": [
+            "16884106523"
+          ],
+          "count": 1,
+          "distance": 25977.7,
+          "elevation_gain": 146.6,
+          "moving_time": 3648.0
+        },
+        "2025-12-31": {
+          "activity_ids": [
+            "16894327715"
+          ],
+          "count": 1,
+          "distance": 30463.6,
+          "elevation_gain": 259.8,
+          "moving_time": 4299.0
+        }
+      },
+      "WeightTraining": {
+        "2025-07-01": {
+          "activity_ids": [
+            "15500442082"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3276.0
+        },
+        "2025-07-04": {
+          "activity_ids": [
+            "15500442123"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2985.0
+        },
+        "2025-07-07": {
+          "activity_ids": [
+            "15500442089"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2965.0
+        },
+        "2025-07-09": {
+          "activity_ids": [
+            "15500442119"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3123.0
+        },
+        "2025-07-14": {
+          "activity_ids": [
+            "15500442106"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3233.0
+        },
+        "2025-07-16": {
+          "activity_ids": [
+            "15500442114"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3170.0
+        },
+        "2025-07-21": {
+          "activity_ids": [
+            "15500442094"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3124.0
+        },
+        "2025-07-23": {
+          "activity_ids": [
+            "15500442108"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3308.0
+        },
+        "2025-07-30": {
+          "activity_ids": [
+            "15500442265"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3115.0
+        },
+        "2025-08-04": {
+          "activity_ids": [
+            "15500482144"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2989.0
+        },
+        "2025-08-07": {
+          "activity_ids": [
+            "15500401699"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3034.0
+        },
+        "2025-08-11": {
+          "activity_ids": [
+            "15500480907"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3256.0
+        },
+        "2025-08-13": {
+          "activity_ids": [
+            "15500480423"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2955.0
+        },
+        "2025-08-18": {
+          "activity_ids": [
+            "15500479965"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2806.0
+        },
+        "2025-08-21": {
+          "activity_ids": [
+            "15532521348"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3162.0
+        },
+        "2025-08-26": {
+          "activity_ids": [
+            "15589014147"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3499.0
+        },
+        "2025-09-01": {
+          "activity_ids": [
+            "15656209044"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3425.0
+        },
+        "2025-09-03": {
+          "activity_ids": [
+            "15680032704"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3234.0
+        },
+        "2025-09-10": {
+          "activity_ids": [
+            "15760844767"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3151.0
+        },
+        "2025-09-15": {
+          "activity_ids": [
+            "15816138173"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3177.0
+        },
+        "2025-09-25": {
+          "activity_ids": [
+            "15928967494"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3602.0
+        },
+        "2025-10-02": {
+          "activity_ids": [
+            "16006374054"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3230.0
+        },
+        "2025-10-13": {
+          "activity_ids": [
+            "16124074506"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3437.0
+        },
+        "2025-10-15": {
+          "activity_ids": [
+            "16146232930"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3627.0
+        },
+        "2025-10-20": {
+          "activity_ids": [
+            "16197890110"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3741.0
+        },
+        "2025-10-27": {
+          "activity_ids": [
+            "16268530824"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3034.0
+        },
+        "2025-10-30": {
+          "activity_ids": [
+            "16299297567"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3621.0
+        },
+        "2025-11-03": {
+          "activity_ids": [
+            "16338628400"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3863.0
+        },
+        "2025-11-07": {
+          "activity_ids": [
+            "16381194144"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3690.0
+        },
+        "2025-11-10": {
+          "activity_ids": [
+            "16411095669"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3482.0
+        },
+        "2025-11-13": {
+          "activity_ids": [
+            "16442774865"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3962.0
+        },
+        "2025-11-19": {
+          "activity_ids": [
+            "16502219107"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3677.0
+        },
+        "2025-11-26": {
+          "activity_ids": [
+            "16569744686"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3645.0
+        },
+        "2025-11-28": {
+          "activity_ids": [
+            "16588927582"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3726.0
+        },
+        "2025-12-03": {
+          "activity_ids": [
+            "16635655112"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3650.0
+        },
+        "2025-12-05": {
+          "activity_ids": [
+            "16654446093"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3671.0
+        },
+        "2025-12-19": {
+          "activity_ids": [
+            "16782826076"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3525.0
+        },
+        "2025-12-23": {
+          "activity_ids": [
+            "16817230772"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4074.0
+        },
+        "2025-12-24": {
+          "activity_ids": [
+            "16829951172"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3811.0
+        },
+        "2025-12-26": {
+          "activity_ids": [
+            "16843537789"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4147.0
+        },
+        "2025-12-29": {
+          "activity_ids": [
+            "16870620712"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3892.0
+        },
+        "2025-12-31": {
+          "activity_ids": [
+            "16891049688"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3367.0
+        }
+      }
+    },
+    "2026": {
+      "VirtualRide": {
+        "2026-01-01": {
+          "activity_ids": [
+            "16902868611"
+          ],
+          "count": 1,
+          "distance": 29293.1,
+          "elevation_gain": 54.6,
+          "moving_time": 3735.0
+        },
+        "2026-01-03": {
+          "activity_ids": [
+            "16920442615"
+          ],
+          "count": 1,
+          "distance": 20929.0,
+          "elevation_gain": 122.8,
+          "moving_time": 2914.0
+        },
+        "2026-01-07": {
+          "activity_ids": [
+            "16969036943"
+          ],
+          "count": 1,
+          "distance": 22783.5,
+          "elevation_gain": 502.2,
+          "moving_time": 4772.0
+        },
+        "2026-01-13": {
+          "activity_ids": [
+            "17034142147"
+          ],
+          "count": 1,
+          "distance": 21667.4,
+          "elevation_gain": 30.6,
+          "moving_time": 2646.0
+        },
+        "2026-01-15": {
+          "activity_ids": [
+            "17056728717"
+          ],
+          "count": 1,
+          "distance": 31524.5,
+          "elevation_gain": 178.2,
+          "moving_time": 4272.0
+        },
+        "2026-01-21": {
+          "activity_ids": [
+            "17124948569"
+          ],
+          "count": 1,
+          "distance": 18960.6,
+          "elevation_gain": 113.8,
+          "moving_time": 2521.0
+        },
+        "2026-01-29": {
+          "activity_ids": [
+            "17215002980"
+          ],
+          "count": 1,
+          "distance": 30076.1,
+          "elevation_gain": 69.0,
+          "moving_time": 3769.0
+        },
+        "2026-02-03": {
+          "activity_ids": [
+            "17269687374"
+          ],
+          "count": 1,
+          "distance": 32493.0,
+          "elevation_gain": 45.6,
+          "moving_time": 3931.0
+        },
+        "2026-02-05": {
+          "activity_ids": [
+            "17293177530"
+          ],
+          "count": 1,
+          "distance": 34341.6,
+          "elevation_gain": 408.4,
+          "moving_time": 5437.0
+        },
+        "2026-02-17": {
+          "activity_ids": [
+            "17426744444"
+          ],
+          "count": 1,
+          "distance": 33920.7,
+          "elevation_gain": 45.8,
+          "moving_time": 4289.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17502690815"
+          ],
+          "count": 1,
+          "distance": 43509.1,
+          "elevation_gain": 112.8,
+          "moving_time": 5415.0
+        },
+        "2026-03-11": {
+          "activity_ids": [
+            "17681712797"
+          ],
+          "count": 1,
+          "distance": 20282.3,
+          "elevation_gain": 45.6,
+          "moving_time": 2551.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17705776264"
+          ],
+          "count": 1,
+          "distance": 23271.8,
+          "elevation_gain": 329.8,
+          "moving_time": 3724.0
+        }
+      },
+      "WeightTraining": {
+        "2026-01-02": {
+          "activity_ids": [
+            "16909465318"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3992.0
+        },
+        "2026-01-08": {
+          "activity_ids": [
+            "16976686117"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4146.0
+        },
+        "2026-01-12": {
+          "activity_ids": [
+            "17019653994"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4080.0
+        },
+        "2026-01-14": {
+          "activity_ids": [
+            "17043837181"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4257.0
+        },
+        "2026-01-19": {
+          "activity_ids": [
+            "17100480647"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3893.0
+        },
+        "2026-01-23": {
+          "activity_ids": [
+            "17147368430"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4044.0
+        },
+        "2026-01-27": {
+          "activity_ids": [
+            "17197954086"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3734.0
+        },
+        "2026-01-28": {
+          "activity_ids": [
+            "17202694737"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4043.0
+        },
+        "2026-01-30": {
+          "activity_ids": [
+            "17224904740"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3614.0
+        },
+        "2026-02-02": {
+          "activity_ids": [
+            "17257189643"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3738.0
+        },
+        "2026-02-04": {
+          "activity_ids": [
+            "17280552795"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3724.0
+        },
+        "2026-02-06": {
+          "activity_ids": [
+            "17303569864"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3806.0
+        },
+        "2026-02-09": {
+          "activity_ids": [
+            "17336128203"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3885.0
+        },
+        "2026-02-11": {
+          "activity_ids": [
+            "17359448044"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4124.0
+        },
+        "2026-02-13": {
+          "activity_ids": [
+            "17381651374"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3922.0
+        },
+        "2026-02-16": {
+          "activity_ids": [
+            "17412998637"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3706.0
+        },
+        "2026-02-20": {
+          "activity_ids": [
+            "17458421569"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3838.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17491883104"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3579.0
+        },
+        "2026-02-25": {
+          "activity_ids": [
+            "17514759746"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3891.0
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "17538629212"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3687.0
+        },
+        "2026-03-04": {
+          "activity_ids": [
+            "17597689415"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3778.0
+        },
+        "2026-03-10": {
+          "activity_ids": [
+            "17669001898"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3515.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "17693491948"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3543.0
+        }
+      }
+    }
+  },
+  "generated_at": "2026-03-13T14:12:52.257596+00:00",
+  "other_bucket": "OtherSports",
+  "profile_url": "https://www.strava.com/athletes/61391587",
+  "repo": "Kwount/git-sweaty",
+  "source": "strava",
+  "strava_profile_url": "https://www.strava.com/athletes/61391587",
+  "type_meta": {
+    "Ride": {
+      "accent": "#05ffa1",
+      "label": "Ride"
+    },
+    "VirtualRide": {
+      "accent": "#fee440",
+      "label": "Virtual Ride"
+    },
+    "WeightTraining": {
+      "accent": "#ff71ce",
+      "label": "Weight Training"
+    }
+  },
+  "types": [
+    "Ride",
+    "VirtualRide",
+    "WeightTraining"
+  ],
+  "units": {
+    "distance": "km",
+    "elevation": "m"
+  },
+  "week_start": "monday",
+  "years": [
+    2025,
+    2026
+  ]
+}
