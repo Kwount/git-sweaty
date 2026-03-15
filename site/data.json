@@ -1448,6 +1448,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17715116325",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 16,
+      "name": "MyWhoosh - Endurance #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17732017446",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2621,6 +2630,15 @@
           "distance": 23271.8,
           "elevation_gain": 329.8,
           "moving_time": 3724.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17732017446"
+          ],
+          "count": 1,
+          "distance": 26124.1,
+          "elevation_gain": 252.2,
+          "moving_time": 3794.0
         }
       },
       "WeightTraining": {
@@ -2843,7 +2861,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:07:59.057276+00:00",
+  "generated_at": "2026-03-15T15:09:09.548772+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",

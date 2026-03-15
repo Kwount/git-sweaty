@@ -2091,5 +2091,18 @@
     "start_date_local": "2026-03-14T09:06:53Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 26124.1,
+    "elevation_gain": 252.2,
+    "id": "17732017446",
+    "moving_time": 3794.0,
+    "name": "MyWhoosh - Endurance #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-15T16:04:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
