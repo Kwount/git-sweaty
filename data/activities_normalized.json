@@ -2117,5 +2117,18 @@
     "start_date_local": "2026-03-16T09:06:31Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 29687.1,
+    "elevation_gain": 175.0,
+    "id": "17750445343",
+    "moving_time": 3783.0,
+    "name": "MyWhoosh - Aerobic 12's #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-17T09:16:31Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

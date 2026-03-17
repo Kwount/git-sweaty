@@ -1466,6 +1466,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17738957740",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 9,
+      "name": "MyWhoosh - Aerobic 12's #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17750445343",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2648,6 +2657,15 @@
           "distance": 26124.1,
           "elevation_gain": 252.2,
           "moving_time": 3794.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17750445343"
+          ],
+          "count": 1,
+          "distance": 29687.1,
+          "elevation_gain": 175.0,
+          "moving_time": 3783.0
         }
       },
       "WeightTraining": {
@@ -2879,7 +2897,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T15:31:19.282752+00:00",
+  "generated_at": "2026-03-17T15:25:40.017890+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
