@@ -2130,5 +2130,18 @@
     "start_date_local": "2026-03-17T09:16:31Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 38276.6,
+    "elevation_gain": 447.6,
+    "id": "17763348079",
+    "moving_time": 5431.0,
+    "name": "MyWhoosh - 90 Minute Endurance",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T09:19:19Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

@@ -1475,6 +1475,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17750445343",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 9,
+      "name": "MyWhoosh - 90 Minute Endurance",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17763348079",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2666,6 +2675,15 @@
           "distance": 29687.1,
           "elevation_gain": 175.0,
           "moving_time": 3783.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17763348079"
+          ],
+          "count": 1,
+          "distance": 38276.6,
+          "elevation_gain": 447.6,
+          "moving_time": 5431.0
         }
       },
       "WeightTraining": {
@@ -2897,7 +2915,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T15:25:40.017890+00:00",
+  "generated_at": "2026-03-18T15:29:45.691994+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
