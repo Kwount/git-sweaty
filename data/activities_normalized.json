@@ -2143,5 +2143,31 @@
     "start_date_local": "2026-03-18T09:19:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17776192806",
+    "moving_time": 3730.0,
+    "name": "\u0414\u0435\u043d\u044c 2",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-19T08:59:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 26251.7,
+    "elevation_gain": 154.6,
+    "id": "17777323159",
+    "moving_time": 3549.0,
+    "name": "MyWhoosh - Zone 2 Endurance 30min",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-19T13:04:01Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

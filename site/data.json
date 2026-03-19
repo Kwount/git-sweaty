@@ -1484,6 +1484,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17763348079",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 8,
+      "name": "\u0414\u0435\u043d\u044c 2",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17776192806",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 13,
+      "name": "MyWhoosh - Zone 2 Endurance 30min",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17777323159",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2684,6 +2702,15 @@
           "distance": 38276.6,
           "elevation_gain": 447.6,
           "moving_time": 5431.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17777323159"
+          ],
+          "count": 1,
+          "distance": 26251.7,
+          "elevation_gain": 154.6,
+          "moving_time": 3549.0
         }
       },
       "WeightTraining": {
@@ -2911,11 +2938,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3648.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17776192806"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3730.0
         }
       }
     }
   },
-  "generated_at": "2026-03-18T15:29:45.691994+00:00",
+  "generated_at": "2026-03-19T15:18:54.240605+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
