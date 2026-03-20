@@ -1502,6 +1502,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17777323159",
       "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 11,
+      "name": "MyWhoosh - Zone 2 Steady State",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17788548390",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2711,6 +2720,15 @@
           "distance": 26251.7,
           "elevation_gain": 154.6,
           "moving_time": 3549.0
+        },
+        "2026-03-20": {
+          "activity_ids": [
+            "17788548390"
+          ],
+          "count": 1,
+          "distance": 27091.6,
+          "elevation_gain": 227.8,
+          "moving_time": 3621.0
         }
       },
       "WeightTraining": {
@@ -2951,7 +2969,7 @@
       }
     }
   },
-  "generated_at": "2026-03-19T15:18:54.240605+00:00",
+  "generated_at": "2026-03-20T15:17:44.629174+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
