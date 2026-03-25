@@ -2208,5 +2208,18 @@
     "start_date_local": "2026-03-24T11:09:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 29153.4,
+    "elevation_gain": 68.6,
+    "id": "17850017931",
+    "moving_time": 3614.0,
+    "name": "MyWhoosh - Zone 2 Steady State",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-25T09:34:01Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
