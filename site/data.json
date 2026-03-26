@@ -1538,6 +1538,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17850017931",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 9,
+      "name": "\u0414\u0435\u043d\u044c 2",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17862537818",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3019,11 +3028,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3930.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17862537818"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4676.0
         }
       }
     }
   },
-  "generated_at": "2026-03-25T15:28:14.013396+00:00",
+  "generated_at": "2026-03-26T15:30:51.482649+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
