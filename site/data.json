@@ -1547,6 +1547,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17862537818",
       "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 9,
+      "name": "MyWhoosh - Long Sweet Spot",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17874169022",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2783,6 +2792,15 @@
           "distance": 29153.4,
           "elevation_gain": 68.6,
           "moving_time": 3614.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17874169022"
+          ],
+          "count": 1,
+          "distance": 56114.9,
+          "elevation_gain": 458.4,
+          "moving_time": 7542.0
         }
       },
       "WeightTraining": {
@@ -3041,7 +3059,7 @@
       }
     }
   },
-  "generated_at": "2026-03-26T15:30:51.482649+00:00",
+  "generated_at": "2026-03-27T15:19:38.642506+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
