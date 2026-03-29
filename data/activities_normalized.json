@@ -2247,5 +2247,18 @@
     "start_date_local": "2026-03-27T09:33:41Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 16926.2,
+    "elevation_gain": 481.0,
+    "id": "17901560755",
+    "moving_time": 3635.0,
+    "name": "MyWhoosh - Threshold Pushing #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-29T15:49:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

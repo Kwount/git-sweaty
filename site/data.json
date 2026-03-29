@@ -1556,6 +1556,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17874169022",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 15,
+      "name": "MyWhoosh - Threshold Pushing #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17901560755",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2801,6 +2810,15 @@
           "distance": 56114.9,
           "elevation_gain": 458.4,
           "moving_time": 7542.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17901560755"
+          ],
+          "count": 1,
+          "distance": 16926.2,
+          "elevation_gain": 481.0,
+          "moving_time": 3635.0
         }
       },
       "WeightTraining": {
@@ -3059,7 +3077,7 @@
       }
     }
   },
-  "generated_at": "2026-03-28T15:10:21.431965+00:00",
+  "generated_at": "2026-03-29T15:10:06.722367+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
