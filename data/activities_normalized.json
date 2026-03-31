@@ -2273,5 +2273,31 @@
     "start_date_local": "2026-03-30T08:58:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 6157.8,
+    "elevation_gain": 3.0,
+    "id": "17921144450",
+    "moving_time": 2482.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T09:08:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 16448.4,
+    "elevation_gain": 30.4,
+    "id": "17921618026",
+    "moving_time": 2060.0,
+    "name": "MyWhoosh - Escalating 3min VO2max",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-31T10:34:04Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
