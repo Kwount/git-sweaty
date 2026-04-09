@@ -2364,5 +2364,31 @@
     "start_date_local": "2026-04-08T08:25:10Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 28002.7,
+    "elevation_gain": 41.8,
+    "id": "18038053271",
+    "moving_time": 3513.0,
+    "name": "MyWhoosh - Endurance #7",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-09T11:29:57Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 27330.3,
+    "elevation_gain": 0.0,
+    "id": "18038068516",
+    "moving_time": 3537.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T11:29:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

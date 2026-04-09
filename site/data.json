@@ -1637,6 +1637,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18024688816",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 11,
+      "name": "MyWhoosh - Endurance #7",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18038053271",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18038068516",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2693,6 +2711,17 @@
       }
     },
     "2026": {
+      "Ride": {
+        "2026-04-09": {
+          "activity_ids": [
+            "18038068516"
+          ],
+          "count": 1,
+          "distance": 27330.3,
+          "elevation_gain": 0.0,
+          "moving_time": 3537.0
+        }
+      },
       "Run": {
         "2026-03-31": {
           "activity_ids": [
@@ -2938,6 +2967,15 @@
           "distance": 21862.1,
           "elevation_gain": 132.6,
           "moving_time": 2845.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18038053271"
+          ],
+          "count": 1,
+          "distance": 28002.7,
+          "elevation_gain": 41.8,
+          "moving_time": 3513.0
         }
       },
       "WeightTraining": {
@@ -3223,7 +3261,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T15:32:47.805602+00:00",
+  "generated_at": "2026-04-09T15:34:18.033017+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
