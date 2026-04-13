@@ -2416,5 +2416,31 @@
     "start_date_local": "2026-04-12T15:14:51Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18088593281",
+    "moving_time": 3443.0,
+    "name": "\u0414\u0435\u043d\u044c 1",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-13T09:53:00Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 20806.9,
+    "elevation_gain": 0.0,
+    "id": "18091603936",
+    "moving_time": 2622.0,
+    "name": "MyWhoosh - Cadence Changers With Sprints",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-13T16:20:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

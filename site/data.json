@@ -1673,6 +1673,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18080080894",
       "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 9,
+      "name": "\u0414\u0435\u043d\u044c 1",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18088593281",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 16,
+      "name": "MyWhoosh - Cadence Changers With Sprints",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18091603936",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3003,6 +3021,15 @@
           "distance": 37421.5,
           "elevation_gain": 306.6,
           "moving_time": 5050.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18091603936"
+          ],
+          "count": 1,
+          "distance": 20806.9,
+          "elevation_gain": 0.0,
+          "moving_time": 2622.0
         }
       },
       "WeightTraining": {
@@ -3293,11 +3320,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3945.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18088593281"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3443.0
         }
       }
     }
   },
-  "generated_at": "2026-04-12T15:14:56.358479+00:00",
+  "generated_at": "2026-04-13T15:32:09.557567+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
