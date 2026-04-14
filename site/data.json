@@ -1691,6 +1691,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18091603936",
       "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18100709556",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2785,6 +2794,15 @@
           "distance": 5015.6,
           "elevation_gain": 4.0,
           "moving_time": 2093.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18100709556"
+          ],
+          "count": 1,
+          "distance": 5752.5,
+          "elevation_gain": 2.0,
+          "moving_time": 2208.0
         }
       },
       "VirtualRide": {
@@ -3333,7 +3351,7 @@
       }
     }
   },
-  "generated_at": "2026-04-13T15:32:09.557567+00:00",
+  "generated_at": "2026-04-14T15:28:46.875416+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
