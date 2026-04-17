@@ -4121,6 +4121,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18128988511",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 11,
+      "name": "MyWhoosh - long low",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18142391297",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7821,6 +7830,15 @@
           "distance": 20806.9,
           "elevation_gain": 0.0,
           "moving_time": 2622.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18142391297"
+          ],
+          "count": 1,
+          "distance": 37754.0,
+          "elevation_gain": 277.6,
+          "moving_time": 5417.0
         }
       },
       "WeightTraining": {
@@ -8133,7 +8151,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T15:34:59.179147+00:00",
+  "generated_at": "2026-04-17T15:25:19.022817+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
