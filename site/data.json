@@ -4166,6 +4166,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18181282678",
       "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 9,
+      "name": "MyWhoosh - 50sec Extensive Anaerobic #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18193756810",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7893,6 +7902,15 @@
           "distance": 37754.0,
           "elevation_gain": 277.6,
           "moving_time": 5417.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18193756810"
+          ],
+          "count": 1,
+          "distance": 28276.6,
+          "elevation_gain": 41.8,
+          "moving_time": 3686.0
         }
       },
       "WeightTraining": {
@@ -8223,7 +8241,7 @@
       }
     }
   },
-  "generated_at": "2026-04-20T15:32:01.915699+00:00",
+  "generated_at": "2026-04-21T15:31:30.869301+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
