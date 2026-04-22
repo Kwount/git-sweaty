@@ -4175,6 +4175,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18193756810",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 9,
+      "name": "\u0414\u0435\u043d\u044c 2",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18208712027",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 12,
+      "name": "MyWhoosh - V02max 3min & 2min",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18209729541",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7911,6 +7929,15 @@
           "distance": 28276.6,
           "elevation_gain": 41.8,
           "moving_time": 3686.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18209729541"
+          ],
+          "count": 1,
+          "distance": 22057.4,
+          "elevation_gain": 193.6,
+          "moving_time": 3146.0
         }
       },
       "WeightTraining": {
@@ -8237,11 +8264,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3598.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18208712027"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4575.0
         }
       }
     }
   },
-  "generated_at": "2026-04-21T15:31:30.869301+00:00",
+  "generated_at": "2026-04-22T15:30:18.935304+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
