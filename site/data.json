@@ -4220,6 +4220,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18235928856",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 16,
+      "name": "MyWhoosh - What are Intervals?",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18266307467",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7983,6 +7992,15 @@
           "distance": 22057.4,
           "elevation_gain": 193.6,
           "moving_time": 3146.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18266307467"
+          ],
+          "count": 1,
+          "distance": 13918.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1824.0
         }
       },
       "WeightTraining": {
@@ -8331,7 +8349,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:16:58.063784+00:00",
+  "generated_at": "2026-04-26T15:17:23.222305+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
