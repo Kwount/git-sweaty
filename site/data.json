@@ -4256,6 +4256,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18288127339",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18303022112",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 10,
+      "name": "\u0414\u0435\u043d\u044c 2",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18304414241",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7765,6 +7783,15 @@
           "distance": 5772.8,
           "elevation_gain": 0.0,
           "moving_time": 2288.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18303022112"
+          ],
+          "count": 1,
+          "distance": 5179.9,
+          "elevation_gain": 0.0,
+          "moving_time": 2164.0
         }
       },
       "VirtualRide": {
@@ -8399,11 +8426,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3353.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18304414241"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4419.0
         }
       }
     }
   },
-  "generated_at": "2026-04-28T15:50:09.662372+00:00",
+  "generated_at": "2026-04-29T15:41:41.320789+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
