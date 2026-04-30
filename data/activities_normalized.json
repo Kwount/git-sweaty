@@ -6173,5 +6173,31 @@
     "start_date_local": "2026-04-29T10:07:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 8391.8,
+    "elevation_gain": 0.0,
+    "id": "18315663318",
+    "moving_time": 3431.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T09:00:10Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 23532.7,
+    "elevation_gain": 33.6,
+    "id": "18317115294",
+    "moving_time": 3015.0,
+    "name": "MyWhoosh - Taper #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T12:39:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

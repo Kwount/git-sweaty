@@ -4274,6 +4274,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18304414241",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18315663318",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 12,
+      "name": "MyWhoosh - Taper #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18317115294",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7792,6 +7810,15 @@
           "distance": 5179.9,
           "elevation_gain": 0.0,
           "moving_time": 2164.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18315663318"
+          ],
+          "count": 1,
+          "distance": 8391.8,
+          "elevation_gain": 0.0,
+          "moving_time": 3431.0
         }
       },
       "VirtualRide": {
@@ -8073,6 +8100,15 @@
           "distance": 13918.4,
           "elevation_gain": 0.0,
           "moving_time": 1824.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18317115294"
+          ],
+          "count": 1,
+          "distance": 23532.7,
+          "elevation_gain": 33.6,
+          "moving_time": 3015.0
         }
       },
       "WeightTraining": {
@@ -8439,7 +8475,7 @@
       }
     }
   },
-  "generated_at": "2026-04-29T15:41:41.320789+00:00",
+  "generated_at": "2026-04-30T15:37:18.735736+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
