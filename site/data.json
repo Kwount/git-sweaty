@@ -4391,6 +4391,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18434425107",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 9,
+      "name": "MyWhoosh - Lactate Threshold #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18447621942",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 14,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18451170706",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7965,6 +7983,15 @@
           "distance": 5695.8,
           "elevation_gain": 7.0,
           "moving_time": 2494.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18451170706"
+          ],
+          "count": 1,
+          "distance": 3558.8,
+          "elevation_gain": 1.0,
+          "moving_time": 1805.0
         }
       },
       "Swim": {
@@ -8275,6 +8302,15 @@
           "distance": 23532.7,
           "elevation_gain": 33.6,
           "moving_time": 3015.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18447621942"
+          ],
+          "count": 1,
+          "distance": 26114.0,
+          "elevation_gain": 219.8,
+          "moving_time": 3542.0
         }
       },
       "WeightTraining": {
@@ -8677,7 +8713,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:21:41.666169+00:00",
+  "generated_at": "2026-05-10T15:22:28.811996+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",

@@ -6342,5 +6342,31 @@
     "start_date_local": "2026-05-09T10:43:59Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 26114.0,
+    "elevation_gain": 219.8,
+    "id": "18447621942",
+    "moving_time": 3542.0,
+    "name": "MyWhoosh - Lactate Threshold #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-10T09:38:34Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 3558.8,
+    "elevation_gain": 1.0,
+    "id": "18451170706",
+    "moving_time": 1805.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T14:12:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
