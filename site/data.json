@@ -4427,6 +4427,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18461448864",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 8,
+      "name": "Morning Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18472967079",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 12,
+      "name": "MyWhoosh - Muscular Endurance #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18474842860",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8039,6 +8057,15 @@
           "distance": 800.0,
           "elevation_gain": 0.0,
           "moving_time": 1238.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18472967079"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1312.0
         }
       },
       "VirtualRide": {
@@ -8338,6 +8365,15 @@
           "distance": 26114.0,
           "elevation_gain": 219.8,
           "moving_time": 3542.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18474842860"
+          ],
+          "count": 1,
+          "distance": 26055.1,
+          "elevation_gain": 145.8,
+          "moving_time": 3496.0
         }
       },
       "WeightTraining": {
@@ -8749,7 +8785,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T16:01:51.586642+00:00",
+  "generated_at": "2026-05-12T15:52:03.624431+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",

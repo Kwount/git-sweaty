@@ -6394,5 +6394,31 @@
     "start_date_local": "2026-05-11T12:11:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "18472967079",
+    "moving_time": 1312.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-12T08:51:38Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 26055.1,
+    "elevation_gain": 145.8,
+    "id": "18474842860",
+    "moving_time": 3496.0,
+    "name": "MyWhoosh - Muscular Endurance #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-12T12:34:04Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
