@@ -6420,5 +6420,31 @@
     "start_date_local": "2026-05-12T12:34:04Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18487080286",
+    "moving_time": 4714.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-13T08:40:01Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 4276.6,
+    "elevation_gain": 0.0,
+    "id": "18487284972",
+    "moving_time": 1835.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-13T09:59:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
