@@ -4490,6 +4490,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18513053626",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18524912000",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 11,
+      "name": "\u0427\u0438\u043b\u043b \u0440\u0430\u0439\u0434 \u0441 velow cc",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18527583835",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7918,6 +7936,15 @@
           "distance": 23666.0,
           "elevation_gain": 190.0,
           "moving_time": 4093.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18527583835"
+          ],
+          "count": 1,
+          "distance": 42226.8,
+          "elevation_gain": 220.0,
+          "moving_time": 6949.0
         }
       },
       "Run": {
@@ -8871,11 +8898,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4714.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18524912000"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3704.0
         }
       }
     }
   },
-  "generated_at": "2026-05-15T15:44:16.544278+00:00",
+  "generated_at": "2026-05-16T15:24:23.012922+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",

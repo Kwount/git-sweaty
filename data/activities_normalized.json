@@ -6485,5 +6485,31 @@
     "start_date_local": "2026-05-15T09:24:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18524912000",
+    "moving_time": 3704.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-16T09:22:53Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 42226.8,
+    "elevation_gain": 220.0,
+    "id": "18527583835",
+    "moving_time": 6949.0,
+    "name": "\u0427\u0438\u043b\u043b \u0440\u0430\u0439\u0434 \u0441 velow cc",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-16T11:32:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
