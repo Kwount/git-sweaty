@@ -4571,6 +4571,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18578199633",
       "year": 2026
+    },
+    {
+      "date": "2026-05-21",
+      "hour": 8,
+      "name": "Morning Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18591463270",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8282,6 +8291,15 @@
           "distance": 925.0,
           "elevation_gain": 0.0,
           "moving_time": 1307.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "18591463270"
+          ],
+          "count": 1,
+          "distance": 2000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2963.0
         }
       },
       "VirtualRide": {
@@ -9037,7 +9055,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T16:13:02.314269+00:00",
+  "generated_at": "2026-05-21T16:07:03.344274+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
