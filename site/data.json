@@ -4589,6 +4589,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18604915030",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 7,
+      "name": "\u0421 velow/cc \u043d\u0430 \u0437\u0430\u0432\u0442\u0440\u0430\u043a",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18618837470",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8035,6 +8044,15 @@
           "distance": 53030.1,
           "elevation_gain": 464.0,
           "moving_time": 7558.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18618837470"
+          ],
+          "count": 1,
+          "distance": 110380.0,
+          "elevation_gain": 440.0,
+          "moving_time": 14170.0
         }
       },
       "Run": {
@@ -9073,7 +9091,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T15:55:34.570201+00:00",
+  "generated_at": "2026-05-23T15:26:08.886711+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",

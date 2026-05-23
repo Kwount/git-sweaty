@@ -6628,5 +6628,18 @@
     "start_date_local": "2026-05-22T09:15:06Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 110380.0,
+    "elevation_gain": 440.0,
+    "id": "18618837470",
+    "moving_time": 14170.0,
+    "name": "\u0421 velow/cc \u043d\u0430 \u0437\u0430\u0432\u0442\u0440\u0430\u043a",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T07:41:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
