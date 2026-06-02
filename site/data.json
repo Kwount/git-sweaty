@@ -4706,6 +4706,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18739102059",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 8,
+      "name": "Morning Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18751685584",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 15,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18755120657",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18755785187",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8498,6 +8525,15 @@
           "distance": 1000.0,
           "elevation_gain": 0.0,
           "moving_time": 1200.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18751685584"
+          ],
+          "count": 1,
+          "distance": 750.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1456.0
         }
       },
       "VirtualRide": {
@@ -8815,6 +8851,18 @@
           "distance": 25795.9,
           "elevation_gain": 145.8,
           "moving_time": 3515.0
+        }
+      },
+      "Walk": {
+        "2026-06-02": {
+          "activity_ids": [
+            "18755120657",
+            "18755785187"
+          ],
+          "count": 2,
+          "distance": 4859.8,
+          "elevation_gain": 39.0,
+          "moving_time": 2887.0
         }
       },
       "WeightTraining": {
@@ -9307,7 +9355,7 @@
       }
     }
   },
-  "generated_at": "2026-06-01T16:54:20.684753+00:00",
+  "generated_at": "2026-06-02T16:33:04.773509+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
@@ -9330,6 +9378,10 @@
       "accent": "#fee440",
       "label": "Virtual Ride"
     },
+    "Walk": {
+      "accent": "#d6ff6b",
+      "label": "Walk"
+    },
     "WeightTraining": {
       "accent": "#ff71ce",
       "label": "Weight Training"
@@ -9340,6 +9392,7 @@
     "Run",
     "Swim",
     "VirtualRide",
+    "Walk",
     "WeightTraining"
   ],
   "units": {
