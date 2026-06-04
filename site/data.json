@@ -4751,6 +4751,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18767099677",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 9,
+      "name": "\u0423\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0437\u0430\u043f\u043b\u044b\u0432",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18779741198",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 10,
+      "name": "\u0423\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0437\u0430\u0431\u0435\u0433",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18780172880",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8478,6 +8496,15 @@
           "distance": 7603.2,
           "elevation_gain": 83.0,
           "moving_time": 2853.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18780172880"
+          ],
+          "count": 1,
+          "distance": 5761.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2409.0
         }
       },
       "Swim": {
@@ -8561,6 +8588,15 @@
           "distance": 750.0,
           "elevation_gain": 0.0,
           "moving_time": 1456.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18779741198"
+          ],
+          "count": 1,
+          "distance": 1225.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1398.0
         }
       },
       "VirtualRide": {
@@ -9391,7 +9427,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T16:34:32.349455+00:00",
+  "generated_at": "2026-06-04T16:09:38.700898+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
