@@ -6901,5 +6901,18 @@
     "start_date_local": "2026-06-05T06:45:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 92384.4,
+    "elevation_gain": 916.0,
+    "id": "18807886190",
+    "moving_time": 13667.0,
+    "name": "Big Cogs x Volga Athletics x Brod",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T08:01:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
