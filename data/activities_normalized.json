@@ -6934,10 +6934,23 @@
     "elevation_gain": 155.0,
     "id": "18892230621",
     "moving_time": 6468.0,
-    "name": "Afternoon Ride",
+    "name": "\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0447\u0438\u043b\u043b\u0440\u0430\u0439\u0434",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-12T16:59:32Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 51265.0,
+    "elevation_gain": 465.0,
+    "id": "18899282300",
+    "moving_time": 7133.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-13T08:53:32Z",
     "type": "Ride",
     "year": 2026
   }
