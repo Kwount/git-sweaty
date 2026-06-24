@@ -7122,5 +7122,18 @@
     "start_date_local": "2026-06-23T16:40:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 34450.7,
+    "elevation_gain": 132.0,
+    "id": "19045766491",
+    "moving_time": 5465.0,
+    "name": "Garmin 3x4x0:10@670w",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-24T08:54:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
