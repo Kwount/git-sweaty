@@ -4994,6 +4994,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19106740343",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19119697605",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 10,
+      "name": "\u0423\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0437\u0430\u043f\u043b\u044b\u0432",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19120796180",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8858,6 +8876,15 @@
           "distance": 15637.2,
           "elevation_gain": 94.0,
           "moving_time": 6370.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19119697605"
+          ],
+          "count": 1,
+          "distance": 5107.0,
+          "elevation_gain": 21.0,
+          "moving_time": 1946.0
         }
       },
       "Swim": {
@@ -8986,6 +9013,15 @@
           "distance": 1225.0,
           "elevation_gain": 0.0,
           "moving_time": 1655.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19120796180"
+          ],
+          "count": 1,
+          "distance": 1300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1500.0
         }
       },
       "VirtualRide": {
@@ -9861,7 +9897,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T16:18:47.549854+00:00",
+  "generated_at": "2026-06-30T15:52:42.034833+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/61391587",
   "repo": "Kwount/git-sweaty",
