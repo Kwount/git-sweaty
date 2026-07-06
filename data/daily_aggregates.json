@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T15:53:13.874761+00:00",
+  "generated_at": "2026-07-06T14:47:22.784726+00:00",
   "years": {
     "2023": {
       "Run": {
@@ -3548,12 +3548,32 @@
         },
         "2026-07-01": {
           "activity_ids": [
-            "19133505539"
+            "19133505539",
+            "23438485454",
+            "23444775915"
+          ],
+          "count": 3,
+          "distance": 140338.619140625,
+          "elevation_gain": 1142.0,
+          "moving_time": 19473.672973632812
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "23456850375"
           ],
           "count": 1,
-          "distance": 59376.0,
-          "elevation_gain": 512.0,
-          "moving_time": 8195.0
+          "distance": 23434.94921875,
+          "elevation_gain": 113.0,
+          "moving_time": 3588.3599853515625
+        },
+        "2026-07-04": {
+          "activity_ids": [
+            "23475041517"
+          ],
+          "count": 1,
+          "distance": 118085.2890625,
+          "elevation_gain": 447.0,
+          "moving_time": 13744.364959716797
         }
       },
       "Run": {
@@ -3874,12 +3894,31 @@
         },
         "2026-06-30": {
           "activity_ids": [
-            "19119697605"
+            "19119697605",
+            "23426224802"
+          ],
+          "count": 2,
+          "distance": 10214.02978515625,
+          "elevation_gain": 42.0,
+          "moving_time": 3885.697998046875
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "23461600600"
           ],
           "count": 1,
-          "distance": 5107.0,
-          "elevation_gain": 21.0,
-          "moving_time": 1946.0
+          "distance": 2531.570068359375,
+          "elevation_gain": 5.0,
+          "moving_time": 1761.2130126953125
+        },
+        "2026-07-06": {
+          "activity_ids": [
+            "23497263502"
+          ],
+          "count": 1,
+          "distance": 7783.5498046875,
+          "elevation_gain": 93.0,
+          "moving_time": 2870.9549865722656
         }
       },
       "Swim": {
@@ -4011,12 +4050,22 @@
         },
         "2026-06-30": {
           "activity_ids": [
-            "19120796180"
+            "19120796180",
+            "23427345279"
+          ],
+          "count": 2,
+          "distance": 2600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3000.5689697265625
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "23450194880"
           ],
           "count": 1,
-          "distance": 1300.0,
+          "distance": 1550.0,
           "elevation_gain": 0.0,
-          "moving_time": 1500.0
+          "moving_time": 1955.2679443359375
         }
       },
       "VirtualRide": {
@@ -4888,6 +4937,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3771.0
+        },
+        "2026-07-06": {
+          "activity_ids": [
+            "23495159884"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1507.8050537109375
         }
       }
     }

@@ -8,6 +8,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-11-30T09:56:23Z",
     "type": "WeightTraining",
     "year": 2023
@@ -21,6 +22,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-11-30T09:08:03Z",
     "type": "Run",
     "year": 2023
@@ -34,6 +36,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-01T09:37:08Z",
     "type": "Run",
     "year": 2023
@@ -47,6 +50,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-01T09:52:21Z",
     "type": "WeightTraining",
     "year": 2023
@@ -60,6 +64,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-04T09:27:21Z",
     "type": "WeightTraining",
     "year": 2023
@@ -73,6 +78,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-04T09:16:11Z",
     "type": "Run",
     "year": 2023
@@ -86,6 +92,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-05T10:12:56Z",
     "type": "WeightTraining",
     "year": 2023
@@ -99,6 +106,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-05T09:23:39Z",
     "type": "Run",
     "year": 2023
@@ -112,6 +120,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-06T09:16:04Z",
     "type": "Run",
     "year": 2023
@@ -125,6 +134,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-06T09:26:50Z",
     "type": "WeightTraining",
     "year": 2023
@@ -138,6 +148,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-07T09:19:21Z",
     "type": "Run",
     "year": 2023
@@ -151,6 +162,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-08T09:22:19Z",
     "type": "WeightTraining",
     "year": 2023
@@ -164,6 +176,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-08T09:15:29Z",
     "type": "Run",
     "year": 2023
@@ -177,6 +190,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-11T08:59:35Z",
     "type": "Run",
     "year": 2023
@@ -190,6 +204,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-11T09:05:12Z",
     "type": "WeightTraining",
     "year": 2023
@@ -203,6 +218,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-12T09:14:10Z",
     "type": "Run",
     "year": 2023
@@ -216,6 +232,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-13T09:08:36Z",
     "type": "WeightTraining",
     "year": 2023
@@ -229,6 +246,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-13T09:02:05Z",
     "type": "Run",
     "year": 2023
@@ -242,6 +260,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-14T09:11:54Z",
     "type": "Run",
     "year": 2023
@@ -255,6 +274,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-14T09:56:52Z",
     "type": "WeightTraining",
     "year": 2023
@@ -268,6 +288,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-15T09:06:41Z",
     "type": "Run",
     "year": 2023
@@ -281,6 +302,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-15T09:12:02Z",
     "type": "WeightTraining",
     "year": 2023
@@ -294,6 +316,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-18T09:22:02Z",
     "type": "Run",
     "year": 2023
@@ -307,6 +330,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-18T09:27:12Z",
     "type": "WeightTraining",
     "year": 2023
@@ -320,6 +344,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-19T09:04:06Z",
     "type": "Run",
     "year": 2023
@@ -333,6 +358,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-20T09:08:35Z",
     "type": "Run",
     "year": 2023
@@ -346,6 +372,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-20T09:14:11Z",
     "type": "WeightTraining",
     "year": 2023
@@ -359,6 +386,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-21T09:57:10Z",
     "type": "WeightTraining",
     "year": 2023
@@ -372,6 +400,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-21T09:11:28Z",
     "type": "Run",
     "year": 2023
@@ -385,6 +414,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-22T08:58:46Z",
     "type": "Run",
     "year": 2023
@@ -398,6 +428,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-22T09:04:21Z",
     "type": "WeightTraining",
     "year": 2023
@@ -411,6 +442,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-25T09:03:28Z",
     "type": "Run",
     "year": 2023
@@ -424,6 +456,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-25T09:08:47Z",
     "type": "WeightTraining",
     "year": 2023
@@ -437,6 +470,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-26T09:24:59Z",
     "type": "WeightTraining",
     "year": 2023
@@ -450,6 +484,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-26T08:39:24Z",
     "type": "Run",
     "year": 2023
@@ -463,6 +498,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-27T09:15:51Z",
     "type": "Run",
     "year": 2023
@@ -476,6 +512,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-27T09:22:30Z",
     "type": "WeightTraining",
     "year": 2023
@@ -489,6 +526,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-28T09:05:05Z",
     "type": "Run",
     "year": 2023
@@ -502,6 +540,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-28T09:50:02Z",
     "type": "WeightTraining",
     "year": 2023
@@ -515,6 +554,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2023-12-29T09:18:45Z",
     "type": "WeightTraining",
     "year": 2023
@@ -528,6 +568,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2023-12-29T09:13:34Z",
     "type": "Run",
     "year": 2023
@@ -541,6 +582,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-02T09:35:01Z",
     "type": "Run",
     "year": 2024
@@ -554,6 +596,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-02T09:40:01Z",
     "type": "WeightTraining",
     "year": 2024
@@ -567,6 +610,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-04T09:32:24Z",
     "type": "WeightTraining",
     "year": 2024
@@ -580,6 +624,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-04T09:22:25Z",
     "type": "Run",
     "year": 2024
@@ -593,6 +638,7 @@
     "name": "Afternoon Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-05T14:21:13Z",
     "type": "Run",
     "year": 2024
@@ -606,6 +652,7 @@
     "name": "Afternoon Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-05T14:26:58Z",
     "type": "WeightTraining",
     "year": 2024
@@ -619,6 +666,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-08T09:36:15Z",
     "type": "WeightTraining",
     "year": 2024
@@ -632,6 +680,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-10T08:53:02Z",
     "type": "Run",
     "year": 2024
@@ -645,6 +694,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-11T09:08:10Z",
     "type": "Run",
     "year": 2024
@@ -658,6 +708,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-11T09:52:07Z",
     "type": "WeightTraining",
     "year": 2024
@@ -671,6 +722,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-12T08:53:56Z",
     "type": "Run",
     "year": 2024
@@ -684,6 +736,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-12T08:59:24Z",
     "type": "WeightTraining",
     "year": 2024
@@ -697,6 +750,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-15T09:28:15Z",
     "type": "WeightTraining",
     "year": 2024
@@ -710,6 +764,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-15T09:22:44Z",
     "type": "Run",
     "year": 2024
@@ -723,6 +778,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-16T09:03:28Z",
     "type": "Run",
     "year": 2024
@@ -736,6 +792,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-16T09:50:46Z",
     "type": "WeightTraining",
     "year": 2024
@@ -749,6 +806,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-17T09:28:17Z",
     "type": "WeightTraining",
     "year": 2024
@@ -762,6 +820,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-18T10:18:50Z",
     "type": "WeightTraining",
     "year": 2024
@@ -775,6 +834,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-18T09:30:57Z",
     "type": "Run",
     "year": 2024
@@ -788,6 +848,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-19T09:08:04Z",
     "type": "WeightTraining",
     "year": 2024
@@ -801,6 +862,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-22T09:12:04Z",
     "type": "Run",
     "year": 2024
@@ -814,6 +876,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-22T09:17:25Z",
     "type": "WeightTraining",
     "year": 2024
@@ -827,6 +890,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-23T09:23:17Z",
     "type": "Run",
     "year": 2024
@@ -840,6 +904,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-24T09:28:34Z",
     "type": "Run",
     "year": 2024
@@ -853,6 +918,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-24T09:37:04Z",
     "type": "WeightTraining",
     "year": 2024
@@ -866,6 +932,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-25T09:07:05Z",
     "type": "Run",
     "year": 2024
@@ -879,6 +946,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-26T09:29:25Z",
     "type": "Run",
     "year": 2024
@@ -892,6 +960,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-26T09:36:39Z",
     "type": "WeightTraining",
     "year": 2024
@@ -905,6 +974,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-29T09:36:28Z",
     "type": "WeightTraining",
     "year": 2024
@@ -918,6 +988,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-29T09:23:11Z",
     "type": "Run",
     "year": 2024
@@ -931,6 +1002,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-01-31T09:21:06Z",
     "type": "WeightTraining",
     "year": 2024
@@ -944,6 +1016,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-01-31T09:15:28Z",
     "type": "Run",
     "year": 2024
@@ -957,6 +1030,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-02T09:58:08Z",
     "type": "Run",
     "year": 2024
@@ -970,6 +1044,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-05T09:56:11Z",
     "type": "Run",
     "year": 2024
@@ -983,6 +1058,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-05T10:01:12Z",
     "type": "WeightTraining",
     "year": 2024
@@ -996,6 +1072,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-07T09:39:46Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1009,6 +1086,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-07T09:23:21Z",
     "type": "Run",
     "year": 2024
@@ -1022,6 +1100,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-09T09:38:06Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1035,6 +1114,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-09T09:43:47Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1048,6 +1128,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-12T09:41:05Z",
     "type": "Run",
     "year": 2024
@@ -1061,6 +1142,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-12T09:46:10Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1074,6 +1156,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-14T09:41:54Z",
     "type": "Run",
     "year": 2024
@@ -1087,6 +1170,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-14T09:47:13Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1100,6 +1184,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-16T09:10:26Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1113,6 +1198,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-16T09:05:00Z",
     "type": "Run",
     "year": 2024
@@ -1126,6 +1212,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-19T09:05:37Z",
     "type": "Run",
     "year": 2024
@@ -1139,6 +1226,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-19T09:15:17Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1152,6 +1240,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-19T09:14:04Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1165,6 +1254,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-20T09:58:59Z",
     "type": "Run",
     "year": 2024
@@ -1178,6 +1268,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-20T10:46:46Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1191,6 +1282,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-21T09:21:20Z",
     "type": "Run",
     "year": 2024
@@ -1204,6 +1296,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-21T09:29:33Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1217,6 +1310,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-22T09:10:18Z",
     "type": "Run",
     "year": 2024
@@ -1230,6 +1324,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-22T09:39:43Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1243,6 +1338,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-26T08:56:36Z",
     "type": "Run",
     "year": 2024
@@ -1256,6 +1352,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-26T09:04:48Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1269,6 +1366,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-27T09:49:09Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1282,6 +1380,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-27T09:03:30Z",
     "type": "Run",
     "year": 2024
@@ -1295,6 +1394,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-28T09:21:55Z",
     "type": "Run",
     "year": 2024
@@ -1308,6 +1408,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-28T09:30:05Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1321,6 +1422,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-02-29T09:37:07Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1334,6 +1436,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-02-29T09:02:55Z",
     "type": "Run",
     "year": 2024
@@ -1347,6 +1450,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-01T09:45:09Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1360,6 +1464,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-03-01T09:36:16Z",
     "type": "Run",
     "year": 2024
@@ -1373,6 +1478,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-03-04T09:32:46Z",
     "type": "Run",
     "year": 2024
@@ -1386,6 +1492,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-04T09:41:22Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1399,6 +1506,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-07T10:01:11Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1412,6 +1520,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-03-07T09:52:06Z",
     "type": "Run",
     "year": 2024
@@ -1425,6 +1534,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-11T09:57:53Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1438,6 +1548,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-03-11T09:49:45Z",
     "type": "Run",
     "year": 2024
@@ -1451,6 +1562,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-03-13T09:13:13Z",
     "type": "Run",
     "year": 2024
@@ -1464,6 +1576,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-13T09:21:32Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1477,6 +1590,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-03-15T09:25:01Z",
     "type": "Run",
     "year": 2024
@@ -1490,6 +1604,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-15T09:33:45Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1503,6 +1618,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-18T09:36:17Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1516,6 +1632,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-03-20T09:47:28Z",
     "type": "Run",
     "year": 2024
@@ -1529,6 +1646,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-20T09:56:09Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1542,6 +1660,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-22T09:45:50Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1555,6 +1674,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-25T09:52:57Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1568,6 +1688,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-03-25T09:46:00Z",
     "type": "Run",
     "year": 2024
@@ -1581,6 +1702,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-27T09:41:31Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1594,6 +1716,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-03-27T09:32:16Z",
     "type": "Run",
     "year": 2024
@@ -1607,6 +1730,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-03-29T09:35:47Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1620,6 +1744,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-04-01T09:29:58Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1633,6 +1758,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-04-01T09:21:45Z",
     "type": "Run",
     "year": 2024
@@ -1646,6 +1772,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2024-04-03T09:37:06Z",
     "type": "Run",
     "year": 2024
@@ -1659,6 +1786,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-04-03T09:45:28Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1672,6 +1800,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-04-05T09:19:57Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1685,6 +1814,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-04-08T09:05:56Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1698,6 +1828,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-04-10T09:08:01Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1711,6 +1842,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-04-12T09:10:26Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1724,6 +1856,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-04-17T09:12:24Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1737,6 +1870,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-04-24T09:27:19Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1750,6 +1884,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-04-27T09:15:46Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1763,6 +1898,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-05-06T09:13:53Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1776,6 +1912,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-05-08T09:32:58Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1789,6 +1926,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-05-12T09:29:21Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1802,6 +1940,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-05-13T09:29:19Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1815,6 +1954,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-05-15T09:16:32Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1828,6 +1968,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-05-17T09:38:16Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1841,6 +1982,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-05-20T09:27:32Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1854,6 +1996,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-05-22T08:59:35Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1867,6 +2010,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-05-24T09:03:26Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1880,6 +2024,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-05-29T09:28:46Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1893,6 +2038,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-06-03T08:55:16Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1906,6 +2052,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-06-05T09:31:39Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1919,6 +2066,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-06-07T09:19:55Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1932,6 +2080,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-06-10T09:14:14Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1945,6 +2094,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-06-12T09:25:58Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1958,6 +2108,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-06-14T09:15:16Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1971,6 +2122,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-06-19T09:26:58Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1984,6 +2136,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-06-21T09:07:40Z",
     "type": "WeightTraining",
     "year": 2024
@@ -1997,6 +2150,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-06-24T08:59:44Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2010,6 +2164,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-06-26T09:33:10Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2023,6 +2178,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-07-01T09:25:20Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2036,6 +2192,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-07-04T09:06:10Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2049,6 +2206,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-07-08T08:59:56Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2062,6 +2220,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-07-12T09:33:26Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2075,6 +2234,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-07-16T09:24:22Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2088,6 +2248,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-07-17T09:16:20Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2101,6 +2262,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-07-23T09:16:08Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2114,6 +2276,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-08-02T09:18:17Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2127,6 +2290,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-08-12T09:44:33Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2140,6 +2304,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-08-14T10:10:51Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2153,6 +2318,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-08-16T09:16:36Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2166,6 +2332,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-08-26T09:00:41Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2179,6 +2346,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-08-28T09:50:36Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2192,6 +2360,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-09-02T09:08:46Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2205,6 +2374,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-09-04T09:30:25Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2218,6 +2388,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-09-09T09:07:10Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2231,6 +2402,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-09-13T09:21:59Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2244,6 +2416,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-09-16T09:12:11Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2257,6 +2430,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-09-19T09:07:45Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2270,6 +2444,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-09-25T09:37:52Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2283,6 +2458,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-09-27T09:17:43Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2296,6 +2472,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-10-01T09:22:08Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2309,6 +2486,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-10-03T09:12:47Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2322,6 +2500,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-10-08T09:26:07Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2335,6 +2514,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-10-14T09:12:40Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2348,6 +2528,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-10-16T10:02:00Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2361,6 +2542,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-10-18T09:35:54Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2374,6 +2556,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-10-21T09:12:09Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2387,6 +2570,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-11-13T09:12:19Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2400,6 +2584,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-11-15T09:16:38Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2413,6 +2598,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-11-18T09:15:07Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2426,6 +2612,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-11-21T09:08:51Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2439,6 +2626,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-11-25T09:14:45Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2452,6 +2640,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-11-28T09:10:37Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2465,6 +2654,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-12-02T09:14:11Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2478,6 +2668,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-12-06T09:16:52Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2491,6 +2682,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-12-09T09:40:23Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2504,6 +2696,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-12-11T09:10:49Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2517,6 +2710,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-12-13T09:49:50Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2530,6 +2724,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-12-16T09:24:41Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2543,6 +2738,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-12-18T09:46:22Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2556,6 +2752,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-12-20T09:45:10Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2569,6 +2766,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2024-12-23T09:14:38Z",
     "type": "WeightTraining",
     "year": 2024
@@ -2582,6 +2780,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-02T09:35:21Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2595,6 +2794,7 @@
     "name": "Lunch Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-06T11:49:34Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2608,6 +2808,7 @@
     "name": "Lunch Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-08T11:36:00Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2621,6 +2822,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-10T09:37:51Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2634,6 +2836,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-13T09:19:00Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2647,6 +2850,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-15T10:23:14Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2660,6 +2864,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-17T10:02:51Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2673,6 +2878,7 @@
     "name": "Afternoon Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-19T14:45:27Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2686,6 +2892,7 @@
     "name": "Afternoon Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-19T14:38:54Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2699,6 +2906,7 @@
     "name": "Afternoon Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-19T14:53:32Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2712,6 +2920,7 @@
     "name": "Afternoon Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-19T14:48:33Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2725,6 +2934,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-20T09:13:54Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2738,6 +2948,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2025-01-22T09:21:24Z",
     "type": "Run",
     "year": 2025
@@ -2751,6 +2962,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-22T09:28:26Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2764,6 +2976,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2025-01-24T09:06:43Z",
     "type": "Run",
     "year": 2025
@@ -2777,6 +2990,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-24T09:13:57Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2790,6 +3004,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2025-01-27T09:08:10Z",
     "type": "Run",
     "year": 2025
@@ -2803,6 +3018,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-27T09:14:31Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2816,6 +3032,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-29T09:46:12Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2829,6 +3046,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2025-01-31T09:43:28Z",
     "type": "Run",
     "year": 2025
@@ -2842,6 +3060,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-01-31T09:51:15Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2855,6 +3074,7 @@
     "name": "Lunch Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-03T11:22:08Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2868,6 +3088,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-05T10:23:16Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2881,6 +3102,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-05T10:26:50Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2894,6 +3116,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2025-02-05T10:15:27Z",
     "type": "Run",
     "year": 2025
@@ -2907,6 +3130,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2025-02-07T10:05:18Z",
     "type": "Run",
     "year": 2025
@@ -2920,6 +3144,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-07T10:11:57Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2933,6 +3158,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-10T09:11:04Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2946,6 +3172,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-12T09:27:34Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2959,6 +3186,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-14T09:24:03Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2972,6 +3200,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-17T09:21:40Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2985,6 +3214,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-19T10:45:28Z",
     "type": "WeightTraining",
     "year": 2025
@@ -2998,6 +3228,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-21T10:02:32Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3011,6 +3242,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-24T09:17:09Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3024,6 +3256,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-26T09:22:25Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3037,6 +3270,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-02-28T09:28:50Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3050,6 +3284,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-02T10:53:46Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3063,6 +3298,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-05T10:03:25Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3076,6 +3312,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-07T09:56:26Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3089,6 +3326,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-10T09:10:12Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3102,6 +3340,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-12T10:18:21Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3115,6 +3354,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-14T09:26:42Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3128,6 +3368,7 @@
     "name": "Lunch Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-16T11:44:23Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3141,6 +3382,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-19T10:32:59Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3154,6 +3396,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-21T09:31:34Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3167,6 +3410,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-26T09:39:35Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3180,6 +3424,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-28T10:09:02Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3193,6 +3438,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-03-31T09:08:51Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3206,6 +3452,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-02T09:31:16Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3219,6 +3466,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-04T09:53:45Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3232,6 +3480,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-07T09:20:32Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3245,6 +3494,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-09T09:24:18Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3258,6 +3508,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-11T10:19:57Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3271,6 +3522,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-14T09:09:36Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3284,6 +3536,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-16T09:25:49Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3297,6 +3550,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-18T09:45:31Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3310,6 +3564,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-21T09:10:55Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3323,6 +3578,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-23T09:38:47Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3336,6 +3592,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-26T10:16:24Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3349,6 +3606,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-28T07:38:58Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3362,6 +3620,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-04-30T09:21:56Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3375,6 +3634,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-05-05T09:06:57Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3388,6 +3648,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-05-12T09:01:40Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3401,6 +3662,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-05-14T09:50:34Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3414,6 +3676,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-05-15T09:11:36Z",
     "type": "Ride",
     "year": 2025
@@ -3427,6 +3690,7 @@
     "name": "Afternoon Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-05-18T13:58:00Z",
     "type": "Ride",
     "year": 2025
@@ -3440,6 +3704,7 @@
     "name": "Afternoon Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-05-18T14:46:13Z",
     "type": "Ride",
     "year": 2025
@@ -3453,6 +3718,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-05-18T10:40:30Z",
     "type": "Ride",
     "year": 2025
@@ -3466,6 +3732,7 @@
     "name": "Lunch Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-05-18T12:20:23Z",
     "type": "Ride",
     "year": 2025
@@ -3479,6 +3746,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2025-05-19T08:58:28Z",
     "type": "Run",
     "year": 2025
@@ -3492,6 +3760,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-06-28T10:41:45Z",
     "type": "Ride",
     "year": 2025
@@ -3505,6 +3774,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-07-01T09:49:55Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3518,6 +3788,7 @@
     "name": "Evening Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-02T18:52:01Z",
     "type": "Ride",
     "year": 2025
@@ -3531,6 +3802,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-07-04T09:21:42Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3544,6 +3816,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-05T08:09:37Z",
     "type": "Ride",
     "year": 2025
@@ -3557,6 +3830,7 @@
     "name": "Evening Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-05T19:26:04Z",
     "type": "Ride",
     "year": 2025
@@ -3570,6 +3844,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-05T08:58:21Z",
     "type": "Ride",
     "year": 2025
@@ -3583,6 +3858,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-07-07T09:03:35Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3596,6 +3872,7 @@
     "name": "Evening Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-09T19:15:10Z",
     "type": "Ride",
     "year": 2025
@@ -3609,6 +3886,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-07-09T09:58:31Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3622,6 +3900,7 @@
     "name": "Evening Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-10T18:29:36Z",
     "type": "Ride",
     "year": 2025
@@ -3635,6 +3914,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-12T05:57:19Z",
     "type": "Ride",
     "year": 2025
@@ -3648,6 +3928,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-07-14T09:27:17Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3661,6 +3942,7 @@
     "name": "\u041f\u043e\u043b\u0442\u0438\u0448\u043e\u043a \u043d\u0430 \u043f\u043e\u0441\u043e\u0448\u043e\u043a",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-15T18:48:03Z",
     "type": "Ride",
     "year": 2025
@@ -3674,6 +3956,7 @@
     "name": "\u0414\u043e \u041a\u0443\u0434\u044c\u043c\u044b \u0438 \u043e\u0431\u0440\u0430\u0442\u043d\u043e. \u0422\u0443\u0434\u0430",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-16T17:48:05Z",
     "type": "Ride",
     "year": 2025
@@ -3687,6 +3970,7 @@
     "name": "\u0414\u043e \u041a\u0443\u0434\u044c\u043c\u044b \u0438 \u043e\u0431\u0440\u0430\u0442\u043d\u043e. \u041e\u0442\u0442\u0443\u0434\u0430",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-16T20:17:15Z",
     "type": "Ride",
     "year": 2025
@@ -3700,6 +3984,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-07-16T10:07:21Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3713,6 +3998,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-18T07:36:20Z",
     "type": "Ride",
     "year": 2025
@@ -3726,6 +4012,7 @@
     "name": "Lazy Cogs #7",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-18T19:13:27Z",
     "type": "Ride",
     "year": 2025
@@ -3739,6 +4026,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-07-21T09:05:34Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3752,6 +4040,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-07-23T10:12:31Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3765,6 +4054,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-25T09:57:19Z",
     "type": "Ride",
     "year": 2025
@@ -3778,6 +4068,7 @@
     "name": "\u0420\u0430\u0441\u043a\u0430\u0442\u043a\u0430 \u043f\u0435\u0440\u0435\u0434 \u0431\u0440\u0435\u0432\u0435\u0442\u043e\u043c",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-26T08:21:21Z",
     "type": "Ride",
     "year": 2025
@@ -3791,6 +4082,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-07-29T07:35:13Z",
     "type": "Ride",
     "year": 2025
@@ -3804,6 +4096,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-07-30T08:53:20Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3817,6 +4110,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-01T06:03:49Z",
     "type": "Ride",
     "year": 2025
@@ -3830,6 +4124,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-02T07:53:46Z",
     "type": "Ride",
     "year": 2025
@@ -3843,6 +4138,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-08-04T09:05:08Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3856,6 +4152,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-05T08:54:03Z",
     "type": "Ride",
     "year": 2025
@@ -3869,6 +4166,7 @@
     "name": "Lunch Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-06T12:36:50Z",
     "type": "Ride",
     "year": 2025
@@ -3882,6 +4180,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0443\u0442\u0440\u043e)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-08-07T09:14:24Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3895,6 +4194,7 @@
     "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0440\u0435\u0432\u0435\u0442. \u0413\u043e\u0440\u043e\u0414\u0435\u0446\u043a\u0438\u0439",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-09T07:55:47Z",
     "type": "Ride",
     "year": 2025
@@ -3908,6 +4208,7 @@
     "name": "\u041f\u043e\u0440\u0430 \u0434\u043e\u043c\u043e\u0439",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-09T16:55:00Z",
     "type": "Ride",
     "year": 2025
@@ -3921,6 +4222,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-09T07:03:56Z",
     "type": "Ride",
     "year": 2025
@@ -3934,6 +4236,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-08-11T09:10:48Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3947,6 +4250,7 @@
     "name": "\u0422\u0443\u0434\u043e\u0439-\u0441\u044e\u0434\u043e\u0439 \u0437\u0430\u0435\u0437\u0434",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-13T08:52:04Z",
     "type": "Ride",
     "year": 2025
@@ -3960,6 +4264,7 @@
     "name": "Lunch Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-08-13T12:48:48Z",
     "type": "WeightTraining",
     "year": 2025
@@ -3973,6 +4278,7 @@
     "name": "\u0417\u0413 + Lazy Cogs",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-15T17:56:21Z",
     "type": "Ride",
     "year": 2025
@@ -3986,6 +4292,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-16T10:35:27Z",
     "type": "Ride",
     "year": 2025
@@ -3999,6 +4306,7 @@
     "name": "Lunch Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-16T12:31:17Z",
     "type": "Ride",
     "year": 2025
@@ -4012,6 +4320,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-08-18T09:07:31Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4025,6 +4334,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-19T10:52:47Z",
     "type": "Ride",
     "year": 2025
@@ -4038,6 +4348,7 @@
     "name": "Afternoon Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-20T17:49:47Z",
     "type": "Ride",
     "year": 2025
@@ -4051,6 +4362,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-08-21T09:05:12Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4064,6 +4376,7 @@
     "name": "\u041f\u043e\u043f\u044b\u0442\u043a\u0430 \u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043d\u0438\u0437\u043a\u0438\u0439 \u043f\u0443\u043b\u044c\u0441.",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-22T10:04:09Z",
     "type": "Ride",
     "year": 2025
@@ -4077,6 +4390,7 @@
     "name": "Afternoon Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-25T17:24:45Z",
     "type": "Ride",
     "year": 2025
@@ -4090,6 +4404,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-08-26T09:27:06Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4103,6 +4418,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-08-29T08:38:27Z",
     "type": "Ride",
     "year": 2025
@@ -4116,6 +4432,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-09-01T09:11:14Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4129,6 +4446,7 @@
     "name": "Afternoon Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-09-01T17:32:52Z",
     "type": "Ride",
     "year": 2025
@@ -4142,6 +4460,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-09-03T10:33:15Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4155,6 +4474,7 @@
     "name": "\u0424\u0435\u043b\u0438\u043a\u0441 \u042d\u0434\u043c\u0443\u043d\u0434\u043e\u0432\u0438\u0447",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-09-06T07:58:00Z",
     "type": "Ride",
     "year": 2025
@@ -4168,6 +4488,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-09-09T09:54:34Z",
     "type": "Ride",
     "year": 2025
@@ -4181,6 +4502,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-09-10T09:53:19Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4194,6 +4516,7 @@
     "name": "\u0417\u0430\u0435\u0437\u0434 \u0441 velow /cc",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2025-09-13T11:50:05Z",
     "type": "Ride",
     "year": 2025
@@ -4207,6 +4530,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-09-15T09:04:20Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4220,6 +4544,7 @@
     "name": "Zwift - Endurance on Ocean Lava Cliffside Loop in Watopia",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-09-22T16:13:15Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4233,6 +4558,7 @@
     "name": "Zwift - Zone Benchmarking on Whole Lotta Lava in Watopia",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-09-24T12:18:10Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4246,6 +4572,7 @@
     "name": "Zwift - FTP Ramp Test on Cobbled Climbs in Richmond",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-09-24T12:51:01Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4259,6 +4586,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-09-25T09:00:29Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4272,6 +4600,7 @@
     "name": "Zwift - Cadence & Tempo on Sand And Sequoias in Watopia",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-09-26T09:21:24Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4285,6 +4614,7 @@
     "name": "Zwift - Endurance on Greatest London Loop in London",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-09-30T10:29:54Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4298,6 +4628,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-10-02T09:01:55Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4311,6 +4642,7 @@
     "name": "Zwift - Endurance on Rolling Highlands in Scotland",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-03T13:03:00Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4324,6 +4656,7 @@
     "name": "Zwift - Aerobic Builds on Beach Island Loop in Watopia",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-08T10:39:00Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4337,6 +4670,7 @@
     "name": "MyWhoosh - 90 Minute Endurance",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-10T12:17:46Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4350,6 +4684,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-10-13T09:03:15Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4363,6 +4698,7 @@
     "name": "MyWhoosh - What is FTP?",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-14T10:53:10Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4376,6 +4712,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-10-15T10:14:42Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4389,6 +4726,7 @@
     "name": "MyWhoosh - Training Zones",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-17T11:08:11Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4402,6 +4740,7 @@
     "name": "MyWhoosh - MyWhoosh Ramp Test",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-18T12:55:07Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4415,6 +4754,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-10-20T09:03:28Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4428,6 +4768,7 @@
     "name": "MyWhoosh - Intervals - What are they?",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-21T09:48:04Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4441,6 +4782,7 @@
     "name": "MyWhoosh - Aerobic 12's #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-23T09:29:44Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4454,6 +4796,7 @@
     "name": "MyWhoosh - Endurance #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-24T09:49:33Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4467,6 +4810,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-10-27T09:19:45Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4480,6 +4824,7 @@
     "name": "MyWhoosh - Sweetspot Training",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-29T09:34:05Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4493,6 +4838,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-10-30T09:05:59Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4506,6 +4852,7 @@
     "name": "MyWhoosh - Tri Endurance #6",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-10-31T10:00:58Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4519,6 +4866,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-11-03T09:04:20Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4532,6 +4880,7 @@
     "name": "MyWhoosh - Stepped Intervals",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-04T15:46:18Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4545,6 +4894,7 @@
     "name": "MyWhoosh - Endurance #3",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-06T08:57:57Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4558,6 +4908,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-11-07T09:49:39Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4571,6 +4922,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-11-10T09:03:28Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4584,6 +4936,7 @@
     "name": "MyWhoosh - Early Morning Ride",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-12T10:01:29Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4597,6 +4950,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-11-13T09:03:51Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4610,6 +4964,7 @@
     "name": "MyWhoosh - Speed Sprints",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-14T13:45:30Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4623,6 +4978,7 @@
     "name": "MyWhoosh - Endurance with 30/30's",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-16T16:11:15Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4636,6 +4992,7 @@
     "name": "MyWhoosh - Endurance #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-17T09:20:24Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4649,6 +5006,7 @@
     "name": "MyWhoosh - Endurance into Max Aerobic",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-18T11:00:04Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4662,6 +5020,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-11-19T09:36:35Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4675,6 +5034,7 @@
     "name": "MyWhoosh - Tempo with 15sec surges",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-20T12:26:59Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4688,6 +5048,7 @@
     "name": "MyWhoosh - Zone 2 into Threshold",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-21T14:02:03Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4701,6 +5062,7 @@
     "name": "MyWhoosh - Targeting FTP",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-25T11:35:16Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4714,6 +5076,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-11-26T10:37:50Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4727,6 +5090,7 @@
     "name": "MyWhoosh - Into the Red!",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-27T11:50:20Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4740,6 +5104,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-11-28T09:58:49Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4753,6 +5118,7 @@
     "name": "MyWhoosh - VO2 Max!",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-11-29T12:25:10Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4766,6 +5132,7 @@
     "name": "MyWhoosh - Ramp Test - MyWhoosh",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-02T11:30:59Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4779,6 +5146,7 @@
     "name": "MyWhoosh - Zone 2 Endurance 30min",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-02T12:01:51Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4792,6 +5160,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-12-03T09:04:37Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4805,6 +5174,7 @@
     "name": "MyWhoosh - Base Miles #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-03T12:57:47Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4818,6 +5188,7 @@
     "name": "MyWhoosh - Muscular Endurance #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-04T09:41:25Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4831,6 +5202,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-12-05T09:15:36Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4844,6 +5216,7 @@
     "name": "MyWhoosh - Active Recovery #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-05T16:12:49Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4857,6 +5230,7 @@
     "name": "MyWhoosh - Endurance #7",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-06T13:43:55Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4870,6 +5244,7 @@
     "name": "MyWhoosh - Phosphate 6",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-13T12:14:20Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4883,6 +5258,7 @@
     "name": "MyWhoosh - Zone 2 Endurance 30min",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-15T14:19:30Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4896,6 +5272,7 @@
     "name": "MyWhoosh - Muscular Endurance #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-18T12:31:31Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4909,6 +5286,7 @@
     "name": "Lunch Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-12-19T11:00:08Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4922,6 +5300,7 @@
     "name": "MyWhoosh - Endurance #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-19T14:46:28Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4935,6 +5314,7 @@
     "name": "MyWhoosh - Mitochondria #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-21T12:32:05Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4948,6 +5328,7 @@
     "name": "MyWhoosh - Active Recovery #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-22T15:27:09Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4961,6 +5342,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-12-23T09:24:23Z",
     "type": "WeightTraining",
     "year": 2025
@@ -4974,6 +5356,7 @@
     "name": "MyWhoosh - Endurance 12's #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-24T16:23:13Z",
     "type": "VirtualRide",
     "year": 2025
@@ -4987,6 +5370,7 @@
     "name": "Lunch Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-12-24T12:54:31Z",
     "type": "WeightTraining",
     "year": 2025
@@ -5000,6 +5384,7 @@
     "name": "MyWhoosh - Anaerobic 10 #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-26T13:35:52Z",
     "type": "VirtualRide",
     "year": 2025
@@ -5013,6 +5398,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-12-26T09:50:08Z",
     "type": "WeightTraining",
     "year": 2025
@@ -5026,6 +5412,7 @@
     "name": "MyWhoosh - Muscular Endurance #3",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-27T17:45:09Z",
     "type": "VirtualRide",
     "year": 2025
@@ -5039,6 +5426,7 @@
     "name": "MyWhoosh - Base Miles #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-28T16:50:58Z",
     "type": "VirtualRide",
     "year": 2025
@@ -5052,6 +5440,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-12-29T07:43:30Z",
     "type": "WeightTraining",
     "year": 2025
@@ -5065,6 +5454,7 @@
     "name": "MyWhoosh - Mitochondria #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-30T16:01:54Z",
     "type": "VirtualRide",
     "year": 2025
@@ -5078,6 +5468,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2025-12-31T10:43:08Z",
     "type": "WeightTraining",
     "year": 2025
@@ -5091,6 +5482,7 @@
     "name": "MyWhoosh - Endurance 12's #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2025-12-31T15:37:00Z",
     "type": "VirtualRide",
     "year": 2025
@@ -5104,6 +5496,7 @@
     "name": "MyWhoosh - Anaerobic 10 #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-01-01T15:34:42Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5117,6 +5510,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-01-02T09:43:36Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5130,6 +5524,7 @@
     "name": "MyWhoosh - Active Recovery #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-01-03T11:35:22Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5143,6 +5538,7 @@
     "name": "MyWhoosh - Mitochondria #3",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-01-07T17:25:43Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5156,6 +5552,7 @@
     "name": "Lunch Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-01-08T11:03:00Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5169,6 +5566,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-01-12T09:08:54Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5182,6 +5580,7 @@
     "name": "MyWhoosh - Base Miles #3",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-01-13T15:14:02Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5195,6 +5594,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-01-14T10:09:24Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5208,6 +5608,7 @@
     "name": "MyWhoosh - Mitochondria #4",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-01-15T12:39:11Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5221,6 +5622,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-01-19T09:09:01Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5234,6 +5636,7 @@
     "name": "MyWhoosh - Base Miles #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-01-21T11:52:01Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5247,6 +5650,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-01-23T10:55:25Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5260,6 +5664,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-01-27T10:12:15Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5273,6 +5678,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-01-28T10:35:34Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5286,6 +5692,7 @@
     "name": "MyWhoosh - Heian Samurai Circuit",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-01-29T12:38:58Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5299,6 +5706,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-01-30T10:41:30Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5312,6 +5720,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-02T09:10:47Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5325,6 +5734,7 @@
     "name": "MyWhoosh - Al Qudra",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-02-03T12:07:28Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5338,6 +5748,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-04T09:39:40Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5351,6 +5762,7 @@
     "name": "MyWhoosh - Ghent",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-02-05T11:30:31Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5364,6 +5776,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-06T10:32:15Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5377,6 +5790,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-09T09:05:13Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5390,6 +5804,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-11T09:32:41Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5403,6 +5818,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-13T10:34:43Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5416,6 +5832,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-16T09:11:18Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5429,6 +5846,7 @@
     "name": "MyWhoosh - Al Qudra",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-02-17T14:18:21Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5442,6 +5860,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-20T10:33:01Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5455,6 +5874,7 @@
     "name": "Lunch Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-23T11:33:09Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5468,6 +5888,7 @@
     "name": "MyWhoosh - 90 Minute Endurance",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-02-24T09:58:27Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5481,6 +5902,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-25T09:46:59Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5494,6 +5916,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-02-27T10:33:19Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5507,6 +5930,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-03-04T10:37:41Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5520,6 +5944,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-03-10T09:49:06Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5533,6 +5958,7 @@
     "name": "MyWhoosh - Base Miles #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-11T09:45:39Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5546,6 +5972,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-03-12T09:06:13Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5559,6 +5986,7 @@
     "name": "MyWhoosh - Zone 2 Endurance 40min",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-13T11:43:27Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5572,6 +6000,7 @@
     "name": "\u0414\u0435\u043d\u044c 3",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-03-14T09:06:53Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5585,6 +6014,7 @@
     "name": "MyWhoosh - Endurance #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-15T16:04:41Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5598,6 +6028,7 @@
     "name": "\u0414\u0435\u043d\u044c 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-03-16T09:06:31Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5611,6 +6042,7 @@
     "name": "MyWhoosh - Aerobic 12's #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-17T09:16:31Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5624,6 +6056,7 @@
     "name": "MyWhoosh - 90 Minute Endurance",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-18T09:19:19Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5637,6 +6070,7 @@
     "name": "\u0414\u0435\u043d\u044c 2",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-03-19T08:59:56Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5650,6 +6084,7 @@
     "name": "MyWhoosh - Zone 2 Endurance 30min",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-19T13:04:01Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5663,6 +6098,7 @@
     "name": "MyWhoosh - Zone 2 Steady State",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-20T11:20:37Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5676,6 +6112,7 @@
     "name": "\u0414\u0435\u043d\u044c 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-03-23T08:57:04Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5689,6 +6126,7 @@
     "name": "MyWhoosh - Aerobic 12's #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-24T11:09:20Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5702,6 +6140,7 @@
     "name": "MyWhoosh - Zone 2 Steady State",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-25T09:34:01Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5715,6 +6154,7 @@
     "name": "\u0414\u0435\u043d\u044c 2",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-03-26T09:06:59Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5728,6 +6168,7 @@
     "name": "MyWhoosh - Long Sweet Spot",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-27T09:33:41Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5741,6 +6182,7 @@
     "name": "MyWhoosh - Threshold Pushing #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-29T15:49:05Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5754,6 +6196,7 @@
     "name": "\u0414\u0435\u043d\u044c 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-03-30T08:58:07Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5767,6 +6210,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-03-31T09:08:28Z",
     "type": "Run",
     "year": 2026
@@ -5780,6 +6224,7 @@
     "name": "MyWhoosh - Escalating 3min VO2max",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-03-31T10:34:04Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5793,6 +6238,7 @@
     "name": "Afternoon Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-04T16:03:35Z",
     "type": "Run",
     "year": 2026
@@ -5806,6 +6252,7 @@
     "name": "\u0414\u0435\u043d\u044c 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-06T12:39:17Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5819,6 +6266,7 @@
     "name": "MyWhoosh - Endurance #6",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-04-07T11:01:29Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5832,6 +6280,7 @@
     "name": "Lunch Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-08T12:03:22Z",
     "type": "Run",
     "year": 2026
@@ -5845,6 +6294,7 @@
     "name": "\u0414\u0435\u043d\u044c 2",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-08T08:25:10Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5858,6 +6308,7 @@
     "name": "MyWhoosh - Endurance #7",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-04-09T11:29:57Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5871,6 +6322,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f-3",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-10T08:25:09Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5884,6 +6336,7 @@
     "name": "MyWhoosh - Endurance #8",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-04-12T15:14:51Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5897,6 +6350,7 @@
     "name": "\u0414\u0435\u043d\u044c 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-13T09:53:00Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5910,6 +6364,7 @@
     "name": "MyWhoosh - Cadence Changers With Sprints",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-04-13T16:20:02Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5923,6 +6378,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-14T09:31:34Z",
     "type": "Run",
     "year": 2026
@@ -5936,6 +6392,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-15T10:23:04Z",
     "type": "Run",
     "year": 2026
@@ -5949,6 +6406,7 @@
     "name": "\u0414\u0435\u043d\u044c 2",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-16T08:55:26Z",
     "type": "WeightTraining",
     "year": 2026
@@ -5962,6 +6420,7 @@
     "name": "MyWhoosh - long low",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-04-17T11:07:24Z",
     "type": "VirtualRide",
     "year": 2026
@@ -5975,6 +6434,7 @@
     "name": "Lunch Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-18T11:56:21Z",
     "type": "Run",
     "year": 2026
@@ -5988,6 +6448,7 @@
     "name": "\u0414\u0435\u043d\u044c 3",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-18T10:53:20Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6001,6 +6462,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-20T10:04:10Z",
     "type": "Run",
     "year": 2026
@@ -6014,6 +6476,7 @@
     "name": "\u0414\u0435\u043d\u044c 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-20T09:02:32Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6027,6 +6490,7 @@
     "name": "MyWhoosh - 50sec Extensive Anaerobic #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-04-21T09:32:20Z",
     "type": "VirtualRide",
     "year": 2026
@@ -6040,6 +6504,7 @@
     "name": "\u0414\u0435\u043d\u044c 2",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-22T09:28:25Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6053,6 +6518,7 @@
     "name": "MyWhoosh - V02max 3min & 2min",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-04-22T12:48:43Z",
     "type": "VirtualRide",
     "year": 2026
@@ -6066,6 +6532,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-23T08:58:27Z",
     "type": "Run",
     "year": 2026
@@ -6079,6 +6546,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-24T10:17:34Z",
     "type": "Run",
     "year": 2026
@@ -6092,6 +6560,7 @@
     "name": "\u0414\u0435\u043d\u044c 3",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-24T09:11:38Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6105,6 +6574,7 @@
     "name": "MyWhoosh - What are Intervals?",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-04-26T16:01:08Z",
     "type": "VirtualRide",
     "year": 2026
@@ -6118,6 +6588,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-27T09:52:42Z",
     "type": "Run",
     "year": 2026
@@ -6131,6 +6602,7 @@
     "name": "\u0414\u0435\u043d\u044c 1",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-27T08:54:18Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6144,6 +6616,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-28T09:23:47Z",
     "type": "Run",
     "year": 2026
@@ -6157,6 +6630,7 @@
     "name": "Lunch Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-29T11:23:29Z",
     "type": "Run",
     "year": 2026
@@ -6170,6 +6644,7 @@
     "name": "\u0414\u0435\u043d\u044c 2",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-04-29T10:07:48Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6183,6 +6658,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-04-30T09:00:10Z",
     "type": "Run",
     "year": 2026
@@ -6196,6 +6672,7 @@
     "name": "MyWhoosh - Taper #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-04-30T12:39:21Z",
     "type": "VirtualRide",
     "year": 2026
@@ -6209,6 +6686,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-01T09:49:02Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6222,6 +6700,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-01T10:55:21Z",
     "type": "Run",
     "year": 2026
@@ -6235,6 +6714,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-04T08:58:50Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6248,6 +6728,7 @@
     "name": "Lunch Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-04T12:40:02Z",
     "type": "Run",
     "year": 2026
@@ -6261,6 +6742,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-05-05T08:43:31Z",
     "type": "Ride",
     "year": 2026
@@ -6274,6 +6756,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-06T09:02:47Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6287,6 +6770,7 @@
     "name": "Lunch Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-06T12:12:53Z",
     "type": "Run",
     "year": 2026
@@ -6300,6 +6784,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-05-07T08:56:32Z",
     "type": "Swim",
     "year": 2026
@@ -6313,6 +6798,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-08T09:06:14Z",
     "type": "Run",
     "year": 2026
@@ -6326,6 +6812,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-09T09:37:37Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6339,6 +6826,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-05-09T10:43:59Z",
     "type": "Swim",
     "year": 2026
@@ -6352,6 +6840,7 @@
     "name": "MyWhoosh - Lactate Threshold #2",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-05-10T09:38:34Z",
     "type": "VirtualRide",
     "year": 2026
@@ -6365,6 +6854,7 @@
     "name": "Afternoon Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-10T14:12:53Z",
     "type": "Run",
     "year": 2026
@@ -6378,6 +6868,7 @@
     "name": "Lunch Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-11T11:09:44Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6391,6 +6882,7 @@
     "name": "Lunch Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-11T12:11:43Z",
     "type": "Run",
     "year": 2026
@@ -6404,6 +6896,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-05-12T08:51:38Z",
     "type": "Swim",
     "year": 2026
@@ -6417,6 +6910,7 @@
     "name": "MyWhoosh - Muscular Endurance #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-05-12T12:34:04Z",
     "type": "VirtualRide",
     "year": 2026
@@ -6430,6 +6924,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-13T08:40:01Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6443,6 +6938,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-13T09:59:11Z",
     "type": "Run",
     "year": 2026
@@ -6456,6 +6952,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-05-14T08:54:14Z",
     "type": "Swim",
     "year": 2026
@@ -6469,6 +6966,7 @@
     "name": "Lunch Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-05-14T11:56:36Z",
     "type": "Ride",
     "year": 2026
@@ -6482,6 +6980,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-15T09:24:00Z",
     "type": "Run",
     "year": 2026
@@ -6495,6 +6994,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-16T09:22:53Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6508,6 +7008,7 @@
     "name": "\u0427\u0438\u043b\u043b \u0440\u0430\u0439\u0434 \u0441 velow cc",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-05-16T11:32:41Z",
     "type": "Ride",
     "year": 2026
@@ -6521,6 +7022,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-18T08:50:50Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6534,6 +7036,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-18T09:50:23Z",
     "type": "Run",
     "year": 2026
@@ -6547,6 +7050,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-05-19T06:53:55Z",
     "type": "Ride",
     "year": 2026
@@ -6560,6 +7064,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-05-19T10:17:40Z",
     "type": "Swim",
     "year": 2026
@@ -6573,6 +7078,7 @@
     "name": "Lunch Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-19T11:05:10Z",
     "type": "Run",
     "year": 2026
@@ -6586,6 +7092,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-20T08:41:49Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6599,6 +7106,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-20T09:52:56Z",
     "type": "Run",
     "year": 2026
@@ -6612,6 +7120,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-05-21T08:56:38Z",
     "type": "Swim",
     "year": 2026
@@ -6625,6 +7134,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-22T09:15:06Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6638,6 +7148,7 @@
     "name": "\u0421 velow/cc \u043d\u0430 \u0437\u0430\u0432\u0442\u0440\u0430\u043a",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-05-23T07:41:19Z",
     "type": "Ride",
     "year": 2026
@@ -6651,6 +7162,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-25T08:53:55Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6664,6 +7176,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-25T09:52:52Z",
     "type": "Run",
     "year": 2026
@@ -6677,6 +7190,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-05-26T09:13:34Z",
     "type": "Swim",
     "year": 2026
@@ -6690,6 +7204,7 @@
     "name": "MyWhoosh - Muscular Endurance #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
+    "source": "strava",
     "start_date_local": "2026-05-26T11:30:44Z",
     "type": "VirtualRide",
     "year": 2026
@@ -6703,6 +7218,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-27T09:15:32Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6716,6 +7232,7 @@
     "name": "Lunch Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-27T12:07:10Z",
     "type": "Run",
     "year": 2026
@@ -6729,6 +7246,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-05-28T08:52:55Z",
     "type": "Swim",
     "year": 2026
@@ -6742,6 +7260,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-05-29T09:26:52Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6755,6 +7274,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-05-30T09:25:21Z",
     "type": "Ride",
     "year": 2026
@@ -6768,6 +7288,7 @@
     "name": "\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439 \u0441\u043f\u043e\u0440\u0442\u0438\u043a \u0440\u0430\u0441\u0442\u0435\u0442",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-05-31T09:39:08Z",
     "type": "Run",
     "year": 2026
@@ -6781,6 +7302,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-06-01T08:56:14Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6794,6 +7316,7 @@
     "name": "\u041f\u043e\u043b\u0443\u0434\u0435\u043d\u043d\u044b\u0439 \u0437\u0430\u0431\u0435\u0433",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-06-01T11:32:19Z",
     "type": "Run",
     "year": 2026
@@ -6807,6 +7330,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-06-02T08:59:15Z",
     "type": "Swim",
     "year": 2026
@@ -6820,6 +7344,7 @@
     "name": "Afternoon Walk",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
+    "source": "strava",
     "start_date_local": "2026-06-02T15:00:45Z",
     "type": "Walk",
     "year": 2026
@@ -6833,6 +7358,7 @@
     "name": "Afternoon Walk",
     "raw_activity_type": "Walk",
     "raw_type": "Walk",
+    "source": "strava",
     "start_date_local": "2026-06-02T16:05:13Z",
     "type": "Walk",
     "year": 2026
@@ -6846,6 +7372,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-03T06:47:07Z",
     "type": "Ride",
     "year": 2026
@@ -6859,6 +7386,7 @@
     "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 (\u0434\u0435\u043d\u044c)",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-06-03T11:23:50Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6872,6 +7400,7 @@
     "name": "\u0423\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0437\u0430\u043f\u043b\u044b\u0432",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-06-04T09:04:26Z",
     "type": "Swim",
     "year": 2026
@@ -6885,6 +7414,7 @@
     "name": "\u0423\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0437\u0430\u0431\u0435\u0433",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-06-04T10:12:02Z",
     "type": "Run",
     "year": 2026
@@ -6898,6 +7428,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-05T06:45:39Z",
     "type": "Ride",
     "year": 2026
@@ -6911,6 +7442,7 @@
     "name": "Big Cogs x Volga Athletics x Brod",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-06T08:01:46Z",
     "type": "Ride",
     "year": 2026
@@ -6924,6 +7456,7 @@
     "name": "Afternoon Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-12T16:59:45Z",
     "type": "Ride",
     "year": 2026
@@ -6937,6 +7470,7 @@
     "name": "\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0447\u0438\u043b\u043b\u0440\u0430\u0439\u0434",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-12T16:59:32Z",
     "type": "Ride",
     "year": 2026
@@ -6950,6 +7484,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-13T08:53:32Z",
     "type": "Ride",
     "year": 2026
@@ -6963,6 +7498,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-06-15T08:52:43Z",
     "type": "WeightTraining",
     "year": 2026
@@ -6976,6 +7512,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-06-15T09:51:17Z",
     "type": "Run",
     "year": 2026
@@ -6989,6 +7526,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-06-16T09:35:44Z",
     "type": "Swim",
     "year": 2026
@@ -7002,6 +7540,7 @@
     "name": "Evening Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-06-16T19:12:35Z",
     "type": "Run",
     "year": 2026
@@ -7015,6 +7554,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-17T08:43:53Z",
     "type": "Ride",
     "year": 2026
@@ -7028,6 +7568,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-06-18T09:02:41Z",
     "type": "Swim",
     "year": 2026
@@ -7041,6 +7582,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-06-19T07:08:45Z",
     "type": "WeightTraining",
     "year": 2026
@@ -7054,6 +7596,7 @@
     "name": "Afternoon Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-06-19T14:55:42Z",
     "type": "Run",
     "year": 2026
@@ -7067,6 +7610,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-20T06:40:36Z",
     "type": "Ride",
     "year": 2026
@@ -7080,6 +7624,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-06-22T08:57:39Z",
     "type": "WeightTraining",
     "year": 2026
@@ -7093,6 +7638,7 @@
     "name": "Afternoon Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-06-22T13:37:06Z",
     "type": "Run",
     "year": 2026
@@ -7106,6 +7652,7 @@
     "name": "\u0423\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0437\u0430\u043f\u043b\u044b\u0432",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-06-23T09:21:26Z",
     "type": "Swim",
     "year": 2026
@@ -7119,6 +7666,7 @@
     "name": "Afternoon Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-06-23T16:40:55Z",
     "type": "Run",
     "year": 2026
@@ -7132,6 +7680,7 @@
     "name": "Garmin 3x4x0:10@670w",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-24T08:54:37Z",
     "type": "Ride",
     "year": 2026
@@ -7145,6 +7694,7 @@
     "name": "Evening Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-24T18:40:30Z",
     "type": "Ride",
     "year": 2026
@@ -7158,6 +7708,7 @@
     "name": "Morning Swim",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-06-25T08:59:58Z",
     "type": "Swim",
     "year": 2026
@@ -7171,6 +7722,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-06-26T09:25:28Z",
     "type": "WeightTraining",
     "year": 2026
@@ -7184,6 +7736,7 @@
     "name": "Afternoon Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-06-26T17:29:49Z",
     "type": "Run",
     "year": 2026
@@ -7197,6 +7750,7 @@
     "name": "Morning Ride",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-06-27T07:44:40Z",
     "type": "Ride",
     "year": 2026
@@ -7210,6 +7764,7 @@
     "name": "Morning Weight Training",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
+    "source": "strava",
     "start_date_local": "2026-06-29T08:58:11Z",
     "type": "WeightTraining",
     "year": 2026
@@ -7223,6 +7778,7 @@
     "name": "Morning Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
+    "source": "strava",
     "start_date_local": "2026-06-30T09:13:24Z",
     "type": "Run",
     "year": 2026
@@ -7236,7 +7792,36 @@
     "name": "\u0423\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0437\u0430\u043f\u043b\u044b\u0432",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
+    "source": "strava",
     "start_date_local": "2026-06-30T10:54:11Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 5107.02978515625,
+    "elevation_gain": 21.0,
+    "id": "23426224802",
+    "moving_time": 1939.697998046875,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0411\u0435\u0433",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "source": "garmin",
+    "start_date_local": "2026-06-30T09:13:24",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 1300.0,
+    "elevation_gain": 0.0,
+    "id": "23427345279",
+    "moving_time": 1500.5689697265625,
+    "name": "\u041f\u043b\u0430\u0432. \u0432 \u0431\u0430\u0441.",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "source": "garmin",
+    "start_date_local": "2026-06-30T10:54:10",
     "type": "Swim",
     "year": 2026
   },
@@ -7249,8 +7834,121 @@
     "name": "Velow /cc",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
+    "source": "strava",
     "start_date_local": "2026-07-01T06:45:19Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 59375.98828125,
+    "elevation_gain": 512.0,
+    "id": "23438485454",
+    "moving_time": 8122.6729736328125,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "source": "garmin",
+    "start_date_local": "2026-07-01T06:45:19",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 21586.630859375,
+    "elevation_gain": 118.0,
+    "id": "23444775915",
+    "moving_time": 3156.0,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "source": "garmin",
+    "start_date_local": "2026-07-01T19:33:11",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 1550.0,
+    "elevation_gain": 0.0,
+    "id": "23450194880",
+    "moving_time": 1955.2679443359375,
+    "name": "\u041f\u043b\u0430\u0432. \u0432 \u0431\u0430\u0441.",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "source": "garmin",
+    "start_date_local": "2026-07-02T09:26:19",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 23434.94921875,
+    "elevation_gain": 113.0,
+    "id": "23456850375",
+    "moving_time": 3588.3599853515625,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "source": "garmin",
+    "start_date_local": "2026-07-02T20:02:28",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 2531.570068359375,
+    "elevation_gain": 5.0,
+    "id": "23461600600",
+    "moving_time": 1761.2130126953125,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0411\u0435\u0433",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "source": "garmin",
+    "start_date_local": "2026-07-03T09:33:35",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 118085.2890625,
+    "elevation_gain": 447.0,
+    "id": "23475041517",
+    "moving_time": 13744.364959716797,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "source": "garmin",
+    "start_date_local": "2026-07-04T08:38:43",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23495159884",
+    "moving_time": 1507.8050537109375,
+    "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f-4",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "source": "garmin",
+    "start_date_local": "2026-07-06T08:52:03",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 7783.5498046875,
+    "elevation_gain": 93.0,
+    "id": "23497263502",
+    "moving_time": 2870.9549865722656,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0411\u0435\u0433",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "source": "garmin",
+    "start_date_local": "2026-07-06T13:32:07",
+    "type": "Run",
     "year": 2026
   }
 ]
