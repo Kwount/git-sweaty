@@ -7978,5 +7978,33 @@
     "start_date_local": "2026-07-07T19:21:52",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 38795.8984375,
+    "elevation_gain": 259.0,
+    "id": "23526454016",
+    "moving_time": 5793.0,
+    "name": "Big Cogs x Very Match",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "source": "garmin",
+    "start_date_local": "2026-07-08T18:21:41",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 1600.0,
+    "elevation_gain": 0.0,
+    "id": "23531892477",
+    "moving_time": 2140.52294921875,
+    "name": "\u041f\u043b\u0430\u0432. \u0432 \u0431\u0430\u0441.",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "source": "garmin",
+    "start_date_local": "2026-07-09T09:04:06",
+    "type": "Swim",
+    "year": 2026
   }
 ]

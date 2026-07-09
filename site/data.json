@@ -5129,6 +5129,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23513811293",
       "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 18,
+      "name": "Big Cogs x Very Match",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23526454016",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-09",
+      "hour": 9,
+      "name": "\u041f\u043b\u0430\u0432. \u0432 \u0431\u0430\u0441.",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23531892477",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8705,6 +8723,15 @@
           "distance": 118085.2890625,
           "elevation_gain": 447.0,
           "moving_time": 13744.364959716797
+        },
+        "2026-07-08": {
+          "activity_ids": [
+            "23526454016"
+          ],
+          "count": 1,
+          "distance": 38795.8984375,
+          "elevation_gain": 259.0,
+          "moving_time": 5793.0
         }
       },
       "Run": {
@@ -9215,6 +9242,15 @@
           "distance": 1425.0,
           "elevation_gain": 0.0,
           "moving_time": 1838.81005859375
+        },
+        "2026-07-09": {
+          "activity_ids": [
+            "23531892477"
+          ],
+          "count": 1,
+          "distance": 1600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2140.52294921875
         }
       },
       "VirtualRide": {
@@ -10099,7 +10135,7 @@
       }
     }
   },
-  "generated_at": "2026-07-08T16:27:55.934420+00:00",
+  "generated_at": "2026-07-09T17:20:36.321344+00:00",
   "other_bucket": "OtherSports",
   "repo": "Kwount/git-sweaty",
   "source": "garmin",
