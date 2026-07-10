@@ -8006,5 +8006,33 @@
     "start_date_local": "2026-07-09T09:04:06",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 52212.03125,
+    "elevation_gain": 467.0,
+    "id": "23543065222",
+    "moving_time": 7072.760986328125,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "source": "garmin",
+    "start_date_local": "2026-07-10T06:01:01",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 2644.510009765625,
+    "elevation_gain": 8.0,
+    "id": "23543839974",
+    "moving_time": 1758.0,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0411\u0435\u0433",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "source": "garmin",
+    "start_date_local": "2026-07-10T09:25:04",
+    "type": "Run",
+    "year": 2026
   }
 ]
