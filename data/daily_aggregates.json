@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T17:10:43.246529+00:00",
+  "generated_at": "2026-07-14T16:10:52.227770+00:00",
   "years": {
     "2023": {
       "Run": {
@@ -3601,6 +3601,15 @@
           "distance": 52146.4609375,
           "elevation_gain": 435.0,
           "moving_time": 6961.178894042969
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "23589496834"
+          ],
+          "count": 1,
+          "distance": 43558.51953125,
+          "elevation_gain": 135.0,
+          "moving_time": 6112.6219482421875
         }
       },
       "Run": {
@@ -4138,6 +4147,15 @@
           "distance": 1600.0,
           "elevation_gain": 0.0,
           "moving_time": 2140.52294921875
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "23590802305"
+          ],
+          "count": 1,
+          "distance": 1475.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1913.06396484375
         }
       },
       "VirtualRide": {
@@ -4467,6 +4485,16 @@
           "distance": 4859.8,
           "elevation_gain": 39.0,
           "moving_time": 2887.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "23590370416",
+            "23591311834"
+          ],
+          "count": 2,
+          "distance": 5800.97998046875,
+          "elevation_gain": 58.0,
+          "moving_time": 3744.803955078125
         }
       },
       "WeightTraining": {
