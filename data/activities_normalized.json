@@ -8160,5 +8160,33 @@
     "start_date_local": "2026-07-15T09:00:33",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 7474.14013671875,
+    "elevation_gain": 6.0,
+    "id": "23614163670",
+    "moving_time": 2771.022994995117,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 - \u0422\u0435\u043c\u043f\u043e\u0432\u044b\u0439 \u0431\u0435\u0433.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "source": "garmin",
+    "start_date_local": "2026-07-16T06:10:02",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 2100.0,
+    "elevation_gain": 0.0,
+    "id": "23615225004",
+    "moving_time": 2763.919921875,
+    "name": "\u041f\u043b\u0430\u0432. \u0432 \u0431\u0430\u0441.",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "source": "garmin",
+    "start_date_local": "2026-07-16T09:01:20",
+    "type": "Swim",
+    "year": 2026
   }
 ]
