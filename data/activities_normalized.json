@@ -8384,5 +8384,33 @@
     "start_date_local": "2026-07-25T08:02:04",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23748264234",
+    "moving_time": 2141.238037109375,
+    "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f-4",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "source": "garmin",
+    "start_date_local": "2026-07-27T12:11:49",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 10010.73046875,
+    "elevation_gain": 84.0,
+    "id": "23751824406",
+    "moving_time": 3900.2770080566406,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0411\u0435\u0433",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "source": "garmin",
+    "start_date_local": "2026-07-27T17:45:53",
+    "type": "Run",
+    "year": 2026
   }
 ]
