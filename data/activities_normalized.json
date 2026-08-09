@@ -8524,5 +8524,19 @@
     "start_date_local": "2026-08-08T08:43:15",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 35584.05078125,
+    "elevation_gain": 287.0,
+    "id": "23910218534",
+    "moving_time": 6248.489990234375,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "source": "garmin",
+    "start_date_local": "2026-08-09T11:34:42",
+    "type": "Ride",
+    "year": 2026
   }
 ]
