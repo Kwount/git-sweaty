@@ -8580,5 +8580,19 @@
     "start_date_local": "2026-08-12T09:10:53",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 1425.0,
+    "elevation_gain": 0.0,
+    "id": "23958300551",
+    "moving_time": 1901.2540283203125,
+    "name": "\u041f\u043b\u0430\u0432. \u0432 \u0431\u0430\u0441.",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "source": "garmin",
+    "start_date_local": "2026-08-13T09:01:59",
+    "type": "Swim",
+    "year": 2026
   }
 ]
