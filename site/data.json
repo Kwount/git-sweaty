@@ -5543,6 +5543,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/24008407585",
       "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 6,
+      "name": "\u041a\u0438\u0440\u043f\u0438\u0447",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/24031433577",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10908,10 +10917,21 @@
           "elevation_gain": 0.0,
           "moving_time": 1500.7080078125
         }
+      },
+      "multi_sport": {
+        "2026-08-19": {
+          "activity_ids": [
+            "24031433577"
+          ],
+          "count": 1,
+          "distance": 46531.36,
+          "elevation_gain": 54.0,
+          "moving_time": 7138.474
+        }
       }
     }
   },
-  "generated_at": "2026-08-18T15:27:10.766377+00:00",
+  "generated_at": "2026-08-19T15:26:50.918646+00:00",
   "other_bucket": "OtherSports",
   "repo": "Kwount/git-sweaty",
   "source": "garmin",
@@ -10939,6 +10959,10 @@
     "WeightTraining": {
       "accent": "#ff71ce",
       "label": "Weight Training"
+    },
+    "multi_sport": {
+      "accent": "#ffbe0b",
+      "label": "Multi sport"
     }
   },
   "types": [
@@ -10947,7 +10971,8 @@
     "Swim",
     "VirtualRide",
     "Walk",
-    "WeightTraining"
+    "WeightTraining",
+    "multi_sport"
   ],
   "units": {
     "distance": "km",
