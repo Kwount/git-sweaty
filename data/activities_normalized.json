@@ -8664,5 +8664,19 @@
     "start_date_local": "2026-08-22T07:02:03",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24093443585",
+    "moving_time": 1774.3599853515625,
+    "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f-4",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "source": "garmin",
+    "start_date_local": "2026-08-24T09:06:06",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
