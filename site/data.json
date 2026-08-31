@@ -5606,6 +5606,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24145080527",
       "year": 2026
+    },
+    {
+      "date": "2026-08-31",
+      "hour": 9,
+      "name": "\u0411\u0435\u0433\u043e\u0432\u043e\u0439 \u0442\u0440\u0435\u043d\u0430\u0436\u0435\u0440",
+      "subtype": "VirtualRun",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/24180055570",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10363,6 +10372,17 @@
           "moving_time": 1671.7409973144531
         }
       },
+      "VirtualRun": {
+        "2026-08-31": {
+          "activity_ids": [
+            "24180055570"
+          ],
+          "count": 1,
+          "distance": 7100.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2740.3560180664062
+        }
+      },
       "Walk": {
         "2026-06-02": {
           "activity_ids": [
@@ -11039,7 +11059,7 @@
       }
     }
   },
-  "generated_at": "2026-08-30T18:23:24.823058+00:00",
+  "generated_at": "2026-08-31T20:37:36.996261+00:00",
   "other_bucket": "OtherSports",
   "repo": "Kwount/git-sweaty",
   "source": "garmin",
@@ -11060,6 +11080,10 @@
       "accent": "#fee440",
       "label": "Virtual Ride"
     },
+    "VirtualRun": {
+      "accent": "#00bbf9",
+      "label": "Virtual Run"
+    },
     "Walk": {
       "accent": "#d6ff6b",
       "label": "Walk"
@@ -11078,6 +11102,7 @@
     "Run",
     "Swim",
     "VirtualRide",
+    "VirtualRun",
     "Walk",
     "WeightTraining",
     "multi_sport"
