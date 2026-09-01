@@ -5615,6 +5615,15 @@
       "type": "VirtualRun",
       "url": "https://connect.garmin.com/modern/activity/24180055570",
       "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 9,
+      "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u041c\u0443\u043b\u044c\u0442\u0438\u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/24193425686",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11055,11 +11064,20 @@
           "distance": 46531.36,
           "elevation_gain": 54.0,
           "moving_time": 7138.474
+        },
+        "2026-09-01": {
+          "activity_ids": [
+            "24193425686"
+          ],
+          "count": 1,
+          "distance": 42895.779472351074,
+          "elevation_gain": 35.0,
+          "moving_time": 7763.950256347656
         }
       }
     }
   },
-  "generated_at": "2026-08-31T20:37:36.996261+00:00",
+  "generated_at": "2026-09-01T18:07:50.768371+00:00",
   "other_bucket": "OtherSports",
   "repo": "Kwount/git-sweaty",
   "source": "garmin",
