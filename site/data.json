@@ -5633,6 +5633,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24206316297",
       "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 8,
+      "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f-4",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/24219414936",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 17,
+      "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24224662064",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9372,6 +9390,15 @@
           "distance": 36081.28125,
           "elevation_gain": 167.0,
           "moving_time": 5135.260009765625
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "24224662064"
+          ],
+          "count": 1,
+          "distance": 51662.2890625,
+          "elevation_gain": 157.0,
+          "moving_time": 6663.736999511719
         }
       },
       "Run": {
@@ -11071,6 +11098,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1319.593017578125
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "24219414936"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1630.654052734375
         }
       },
       "multi_sport": {
@@ -11095,7 +11131,7 @@
       }
     }
   },
-  "generated_at": "2026-09-02T18:23:58.340583+00:00",
+  "generated_at": "2026-09-03T18:18:58.870248+00:00",
   "other_bucket": "OtherSports",
   "repo": "Kwount/git-sweaty",
   "source": "garmin",
