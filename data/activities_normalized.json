@@ -8804,5 +8804,19 @@
     "start_date_local": "2026-09-04T13:25:21",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24267437668",
+    "moving_time": 1750.133056640625,
+    "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f-4",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "source": "garmin",
+    "start_date_local": "2026-09-07T08:57:13",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
