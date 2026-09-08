@@ -8773,7 +8773,7 @@
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "source": "garmin",
-    "start_date_local": "2026-09-03T08:58:34",
+    "start_date_local": "2026-09-03T08:58:00",
     "type": "WeightTraining",
     "year": 2026
   },
@@ -8811,12 +8811,26 @@
     "elevation_gain": 0.0,
     "id": "24267437668",
     "moving_time": 1750.133056640625,
-    "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f-4",
+    "name": "\u0421\u0438\u043b\u043e\u0432\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "source": "garmin",
-    "start_date_local": "2026-09-07T08:57:13",
+    "start_date_local": "2026-09-07T08:57:00",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 28596.81067466736,
+    "elevation_gain": 63.0,
+    "id": "24279209454",
+    "moving_time": 4478.0439453125,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u041c\u0443\u043b\u044c\u0442\u0438\u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "source": "garmin",
+    "start_date_local": "2026-09-08T07:03:34",
+    "type": "multi_sport",
     "year": 2026
   }
 ]
