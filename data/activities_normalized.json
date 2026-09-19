@@ -9028,5 +9028,19 @@
     "start_date_local": "2026-09-18T09:10:31",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 202139.71875,
+    "elevation_gain": 500.0,
+    "id": "24419643465",
+    "moving_time": 24084.729125976562,
+    "name": "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a \u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "source": "garmin",
+    "start_date_local": "2026-09-19T08:00:24",
+    "type": "Ride",
+    "year": 2026
   }
 ]
