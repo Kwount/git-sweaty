@@ -9098,5 +9098,33 @@
     "start_date_local": "2026-09-22T16:21:04",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 5984.919921875,
+    "elevation_gain": 12.0,
+    "id": "24490210953",
+    "moving_time": 3032.5470275878906,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0411\u0435\u0433",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "source": "garmin",
+    "start_date_local": "2026-09-25T09:26:32",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 33658.30078125,
+    "elevation_gain": 0.0,
+    "id": "24494634580",
+    "moving_time": 3628.8369750976562,
+    "name": "\u0417\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u043b\u043e\u0441\u043f\u043e\u0440\u0442",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "source": "garmin",
+    "start_date_local": "2026-09-25T17:03:09",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
