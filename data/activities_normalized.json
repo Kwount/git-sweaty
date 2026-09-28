@@ -9154,5 +9154,19 @@
     "start_date_local": "2026-09-27T09:29:32",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 6646.0,
+    "elevation_gain": 0.0,
+    "id": "24525265800",
+    "moving_time": 2699.9320068359375,
+    "name": "\u0411\u0435\u0433\u043e\u0432\u0430\u044f. \u0411\u0430\u0437\u0430. \u0414\u043b\u044f",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "source": "garmin",
+    "start_date_local": "2026-09-28T09:09:04",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
