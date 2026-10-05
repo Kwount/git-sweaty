@@ -9280,5 +9280,19 @@
     "start_date_local": "2026-10-04T11:50:09",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-05",
+    "distance": 1525.0,
+    "elevation_gain": 0.0,
+    "id": "24610427486",
+    "moving_time": 2030.89794921875,
+    "name": "\u041f\u043b\u0430\u0432. \u0432 \u0431\u0430\u0441.",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "source": "garmin",
+    "start_date_local": "2026-10-05T08:58:51",
+    "type": "Swim",
+    "year": 2026
   }
 ]
