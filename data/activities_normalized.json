@@ -9490,5 +9490,19 @@
     "start_date_local": "2026-10-16T11:59:45",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 10117.8095703125,
+    "elevation_gain": 81.0,
+    "id": "24752323164",
+    "moving_time": 4275.482025146484,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 - \u0431\u0435\u0433 \u043b\u0435\u0433\u043a\u0438\u0439 70'",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "source": "garmin",
+    "start_date_local": "2026-10-17T09:13:44",
+    "type": "Run",
+    "year": 2026
   }
 ]
