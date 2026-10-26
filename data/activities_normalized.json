@@ -9658,5 +9658,33 @@
     "start_date_local": "2026-10-25T16:46:46",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 1525.0,
+    "elevation_gain": 0.0,
+    "id": "24853597544",
+    "moving_time": 1970.4189453125,
+    "name": "\u041f\u043b\u0430\u0432. \u0432 \u0431\u0430\u0441.",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "source": "garmin",
+    "start_date_local": "2026-10-26T09:06:24",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 7122.60986328125,
+    "elevation_gain": 0.0,
+    "id": "24854013048",
+    "moving_time": 2736.802001953125,
+    "name": "\u041b\u0451\u0433\u043a\u0438\u0439 \u0431\u0435\u0433 45'",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "source": "garmin",
+    "start_date_local": "2026-10-26T09:56:10",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
