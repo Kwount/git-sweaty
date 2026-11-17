@@ -10050,5 +10050,19 @@
     "start_date_local": "2026-11-16T10:09:44",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 58704.26171875,
+    "elevation_gain": 0.0,
+    "id": "25106111693",
+    "moving_time": 4897.000015258789,
+    "name": "\u0412\u0435\u043b\u043e\u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 6x5",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "source": "garmin",
+    "start_date_local": "2026-11-17T11:14:48",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
