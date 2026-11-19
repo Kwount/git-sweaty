@@ -6479,6 +6479,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/25117020906",
       "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 9,
+      "name": "\u043f\u043e\u0440\u043e\u0433\u043e\u0432\u044b\u0439 3\u044510",
+      "subtype": "VirtualRun",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/25127690429",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12010,6 +12019,15 @@
           "distance": 5100.0,
           "elevation_gain": 0.0,
           "moving_time": 1791.4070129394531
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "25127690429"
+          ],
+          "count": 1,
+          "distance": 10950.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3675.067976951599
         }
       },
       "Walk": {
@@ -12787,7 +12805,7 @@
       }
     }
   },
-  "generated_at": "2026-11-18T22:27:48.168424+00:00",
+  "generated_at": "2026-11-19T22:32:53.616527+00:00",
   "other_bucket": "OtherSports",
   "repo": "Kwount/git-sweaty",
   "source": "garmin",
