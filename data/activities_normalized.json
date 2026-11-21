@@ -10120,5 +10120,19 @@
     "start_date_local": "2026-11-20T11:11:55",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 11844.400390625,
+    "elevation_gain": 7.0,
+    "id": "25147885399",
+    "moving_time": 4790.899993896484,
+    "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 - \u0431\u0435\u0433 \u043b\u0435\u0433\u043a\u0438\u0439 80",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "source": "garmin",
+    "start_date_local": "2026-11-21T08:21:21",
+    "type": "Run",
+    "year": 2026
   }
 ]
